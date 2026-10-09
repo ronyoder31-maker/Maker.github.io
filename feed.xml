@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:01:42 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 05:05:49 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Friday, October 9, 2026</title>
+      <description>Anthropic Cyber Mission + usage policy; Trump science medals/Nvidia $1B; LMCache CVSS 9.8 RCE; Pwn2Own Ireland (Codex, LiteLLM); Google Gemini agent own Workspace account; Manus parent $500M+; StepFun Step 5 Preview; Aaronson crypto probing; Surface RTX Spark Dev Box $5,999; Europe Q3 VC $25B; Arena Alignment Index. Lightning: Flock layoffs; USV $900M; Persona $10M; Revoy AI license; Atomic Machines. Hype or Legit: DeepSeek 4.1 Flash = Opus claim.</description>
+      <itunes:summary>Anthropic Cyber Mission + usage policy; Trump science medals/Nvidia $1B; LMCache CVSS 9.8 RCE; Pwn2Own Ireland (Codex, LiteLLM); Google Gemini agent own Workspace account; Manus parent $500M+; StepFun Step 5 Preview; Aaronson crypto probing; Surface RTX Spark Dev Box $5,999; Europe Q3 VC $25B; Arena Alignment Index. Lightning: Flock layoffs; USV $900M; Persona $10M; Revoy AI license; Atomic Machines. Hype or Legit: DeepSeek 4.1 Flash = Opus claim.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-09.mp3" length="11851820" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-09</guid>
+      <pubDate>Fri, 09 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1481</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Thursday, October 8, 2026</title>
       <description>GPT-6 + Intelligent UI; Claude Haiku 5.5 price cut; fired OpenAI safety trio letter; Samsung record Q3 profit; Wolfspeed $1.5B DoW loan; China 16 models in Sept; Lean 11-square proof + OpenAI math; funding (Nous, Mecka, Keyu Tian lab, Healthleap, Parallel Systems); Broadcom $50B OpenAI chip financing; Common Sense vs ChatGPT Teens; MXC/Docker Agent/NeMo-DCR. Lightning: Finland Google halt; Google-Constellation (again); Claude in Google Workspace; EU levy; S.Korea AI. Security: Atlassian CVE-2026-21589, FortiBleed, Pwn2Own. Hype or Legit: Nous Hermes 2.5% tokens.</description>
