@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 09 Oct 2026 05:05:49 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 05:03:24 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Saturday, October 10, 2026</title>
+      <description>White House AI incident disclosure + Anthropic test-model visa forms/Philly tip; labs war-game catastrophic event; Amodei asked Meta for compute; Zenity AgentCorruption AWS AgentCore + ARTEX; USA Today sues OpenAI; funding (Ramp $60B, Oxide, Nuvacore, TypeSafe, 42 decacorns); Super Micro fixer plea; Tesla Assisted Driving Europe; Zuckerberg Muse NYT; Microsoft Decision-1/Liquid d1; Gemini 4 Carbon; Sabi. Lightning: UK non-compete ban; Alibaba sues Pentagon; SemiAnalysis China safety; Qwen-Image 2.1 Turbo; Prime Intellect Rust; Iran ChatGPT op. Hype or Legit: Memento 3 ARC-AGI-3.</description>
+      <itunes:summary>White House AI incident disclosure + Anthropic test-model visa forms/Philly tip; labs war-game catastrophic event; Amodei asked Meta for compute; Zenity AgentCorruption AWS AgentCore + ARTEX; USA Today sues OpenAI; funding (Ramp $60B, Oxide, Nuvacore, TypeSafe, 42 decacorns); Super Micro fixer plea; Tesla Assisted Driving Europe; Zuckerberg Muse NYT; Microsoft Decision-1/Liquid d1; Gemini 4 Carbon; Sabi. Lightning: UK non-compete ban; Alibaba sues Pentagon; SemiAnalysis China safety; Qwen-Image 2.1 Turbo; Prime Intellect Rust; Iran ChatGPT op. Hype or Legit: Memento 3 ARC-AGI-3.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-10.mp3" length="12709484" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-10</guid>
+      <pubDate>Sat, 10 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1588</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Friday, October 9, 2026</title>
       <description>Anthropic Cyber Mission + usage policy; Trump science medals/Nvidia $1B; LMCache CVSS 9.8 RCE; Pwn2Own Ireland (Codex, LiteLLM); Google Gemini agent own Workspace account; Manus parent $500M+; StepFun Step 5 Preview; Aaronson crypto probing; Surface RTX Spark Dev Box $5,999; Europe Q3 VC $25B; Arena Alignment Index. Lightning: Flock layoffs; USV $900M; Persona $10M; Revoy AI license; Atomic Machines. Hype or Legit: DeepSeek 4.1 Flash = Opus claim.</description>
