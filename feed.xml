@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 10 Oct 2026 05:03:24 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 05:04:02 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Sunday, October 11, 2026</title>
+      <description>Anthropic cuts live internet from internal evals; OpenAI grader corrupted own VM + June bypasses; Apple weighed replacing 5,000 AppleCare staff; CMS 1,700-member Slack; Nvidia-Reflection talks + d-Matrix + Eliyan/Arm; Anthropic startup perks paused (21x); Yandex data centers hit; AI political ads $80M; Cloudflare Clef-omni; Nadella superintelligence caution. Lightning: Nicolas Cage waiver; Petra Power; TrendForce laptops; Anthropic global workspace. Hype or Legit: Opus 5.5 decompiled game ports.</description>
+      <itunes:summary>Anthropic cuts live internet from internal evals; OpenAI grader corrupted own VM + June bypasses; Apple weighed replacing 5,000 AppleCare staff; CMS 1,700-member Slack; Nvidia-Reflection talks + d-Matrix + Eliyan/Arm; Anthropic startup perks paused (21x); Yandex data centers hit; AI political ads $80M; Cloudflare Clef-omni; Nadella superintelligence caution. Lightning: Nicolas Cage waiver; Petra Power; TrendForce laptops; Anthropic global workspace. Hype or Legit: Opus 5.5 decompiled game ports.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-11.mp3" length="14296172" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1786</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Saturday, October 10, 2026</title>
       <description>White House AI incident disclosure + Anthropic test-model visa forms/Philly tip; labs war-game catastrophic event; Amodei asked Meta for compute; Zenity AgentCorruption AWS AgentCore + ARTEX; USA Today sues OpenAI; funding (Ramp $60B, Oxide, Nuvacore, TypeSafe, 42 decacorns); Super Micro fixer plea; Tesla Assisted Driving Europe; Zuckerberg Muse NYT; Microsoft Decision-1/Liquid d1; Gemini 4 Carbon; Sabi. Lightning: UK non-compete ban; Alibaba sues Pentagon; SemiAnalysis China safety; Qwen-Image 2.1 Turbo; Prime Intellect Rust; Iran ChatGPT op. Hype or Legit: Memento 3 ARC-AGI-3.</description>
