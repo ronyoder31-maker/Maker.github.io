@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open Source Daily</title>
+    <link>https://ronyoder31-maker.github.io/Maker.github.io/</link>
+    <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
+    <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Oct 2026 05:36:18 +0200</lastBuildDate>
+    <itunes:author>Open Source Daily</itunes:author>
+    <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
+    <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Sunday, October 11, 2026</title>
+      <description>Ollama CVE-2026-103663 /api/pull path traversal + v0.40.2 model-upgrade backups (MLX default); Rapid-MLX 0.16.0 TensorFold (Bonsai 2 27B, Gemma 4 26B, DeepSeek V4 Flash) + 64GB fit; llama.cpp b11521 llama-server port 9931; Python 3.15.0; SQLite 3.54.0; REA reverse-engineering MCP (morluto/rea). Tool: Talorys (Cloudflare self-hosted agent). Quick: Claude Code CVE-2026-103435; Littleguys menu bar; KDE Plasma 6.8 next week; Ubuntu 26.10 RISC-V desktop. Watch: Linux 7.3-rc7.</description>
+      <itunes:summary>Ollama CVE-2026-103663 /api/pull path traversal + v0.40.2 model-upgrade backups (MLX default); Rapid-MLX 0.16.0 TensorFold (Bonsai 2 27B, Gemma 4 26B, DeepSeek V4 Flash) + 64GB fit; llama.cpp b11521 llama-server port 9931; Python 3.15.0; SQLite 3.54.0; REA reverse-engineering MCP (morluto/rea). Tool: Talorys (Cloudflare self-hosted agent). Quick: Claude Code CVE-2026-103435; Littleguys menu bar; KDE Plasma 6.8 next week; Ubuntu 26.10 RISC-V desktop. Watch: Linux 7.3-rc7.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-11.mp3" length="9256748" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-11</guid>
+      <pubDate>Sun, 11 Oct 2026 05:30:00 +0200</pubDate>
+      <itunes:duration>1157</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
