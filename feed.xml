@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 05:04:02 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:03:35 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Wednesday, October 14, 2026</title>
+      <description>Gemini 4 Argon GA; OpenAI engineer bugging arrest; Anthropic Scion; labs veto on evaluators; Nvidia China share/Huawei; Apple HomeView skips EU; Apple v OpenAI discovery; Qualcomm v Arm $2; DOJ NK laptop farms; Meta GitHub breach; Anthropic distillation; Xbox Labs; Meta Your Algorithm; Albert Invent; Apple Minions; Scaleway AMD. Lightning: Tencent bond; Decagon; Applied Intuition; NTT Osaka; Pluto. Hype or Legit: Clark RSI 2027.</description>
+      <itunes:summary>Gemini 4 Argon GA; OpenAI engineer bugging arrest; Anthropic Scion; labs veto on evaluators; Nvidia China share/Huawei; Apple HomeView skips EU; Apple v OpenAI discovery; Qualcomm v Arm $2; DOJ NK laptop farms; Meta GitHub breach; Anthropic distillation; Xbox Labs; Meta Your Algorithm; Albert Invent; Apple Minions; Scaleway AMD. Lightning: Tencent bond; Decagon; Applied Intuition; NTT Osaka; Pluto. Hype or Legit: Clark RSI 2027.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-14.mp3" length="12940844" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1617</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Sunday, October 11, 2026</title>
       <description>Anthropic cuts live internet from internal evals; OpenAI grader corrupted own VM + June bypasses; Apple weighed replacing 5,000 AppleCare staff; CMS 1,700-member Slack; Nvidia-Reflection talks + d-Matrix + Eliyan/Arm; Anthropic startup perks paused (21x); Yandex data centers hit; AI political ads $80M; Cloudflare Clef-omni; Nadella superintelligence caution. Lightning: Nicolas Cage waiver; Petra Power; TrendForce laptops; Anthropic global workspace. Hype or Legit: Opus 5.5 decompiled game ports.</description>
