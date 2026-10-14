@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2026 05:36:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 05:33:39 +0200</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Wednesday, October 14, 2026</title>
+      <description>Dockhand CVE-2026-110130; Liquid LFM2.5-24B-A2B; Ollama CVE-2026-108836 SSRF; Qwen3.8-27B 4-bit MLX; ToFu MCP fuzzing. Tool: LFM2.5 via mlx-lm. Quick: d1-omni MLX 8bit; llama.cpp b11575 Metal; Dockhand 1.0.53; Ollama 0.40.4-rc1. Watch: Ollama 0.40.4 stable, LFM DSpark draft.</description>
+      <itunes:summary>Dockhand CVE-2026-110130; Liquid LFM2.5-24B-A2B; Ollama CVE-2026-108836 SSRF; Qwen3.8-27B 4-bit MLX; ToFu MCP fuzzing. Tool: LFM2.5 via mlx-lm. Quick: d1-omni MLX 8bit; llama.cpp b11575 Metal; Dockhand 1.0.53; Ollama 0.40.4-rc1. Watch: Ollama 0.40.4 stable, LFM DSpark draft.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-14.mp3" length="7122284" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 05:30:00 +0200</pubDate>
+      <itunes:duration>890</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Sunday, October 11, 2026</title>
       <description>Ollama CVE-2026-103663 /api/pull path traversal + v0.40.2 model-upgrade backups (MLX default); Rapid-MLX 0.16.0 TensorFold (Bonsai 2 27B, Gemma 4 26B, DeepSeek V4 Flash) + 64GB fit; llama.cpp b11521 llama-server port 9931; Python 3.15.0; SQLite 3.54.0; REA reverse-engineering MCP (morluto/rea). Tool: Talorys (Cloudflare self-hosted agent). Quick: Claude Code CVE-2026-103435; Littleguys menu bar; KDE Plasma 6.8 next week; Ubuntu 26.10 RISC-V desktop. Watch: Linux 7.3-rc7.</description>
