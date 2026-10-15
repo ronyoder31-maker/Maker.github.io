@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:33:39 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:34:30 +0200</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Thursday, October 15, 2026</title>
+      <description>TensorFold 1.0.10/1.0.11 (oQ mixed-width, cortheon security); Strata 0.1.44.1 Mac; VS Code 1.141.1 CVE-2026-102238; Nix/Lix root privesc; Ollama 0.40.4 stable decision models; VoiceStudio. Tool: VoiceStudio. Quick: Plasma 6.8; Asterinas 0.19; GCC LLM policy; Postgres 19 reverts. Watch: Linux 7.3 final, Nix/Lix CVEs.</description>
+      <itunes:summary>TensorFold 1.0.10/1.0.11 (oQ mixed-width, cortheon security); Strata 0.1.44.1 Mac; VS Code 1.141.1 CVE-2026-102238; Nix/Lix root privesc; Ollama 0.40.4 stable decision models; VoiceStudio. Tool: VoiceStudio. Quick: Plasma 6.8; Asterinas 0.19; GCC LLM policy; Postgres 19 reverts. Watch: Linux 7.3 final, Nix/Lix CVEs.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-15.mp3" length="6785132" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 05:30:00 +0200</pubDate>
+      <itunes:duration>848</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Wednesday, October 14, 2026</title>
       <description>Dockhand CVE-2026-110130; Liquid LFM2.5-24B-A2B; Ollama CVE-2026-108836 SSRF; Qwen3.8-27B 4-bit MLX; ToFu MCP fuzzing. Tool: LFM2.5 via mlx-lm. Quick: d1-omni MLX 8bit; llama.cpp b11575 Metal; Dockhand 1.0.53; Ollama 0.40.4-rc1. Watch: Ollama 0.40.4 stable, LFM DSpark draft.</description>
