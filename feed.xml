@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Oct 2026 05:03:35 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 05:02:23 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Thursday, October 15, 2026</title>
+      <description>XBOW GPT-5.6 Chrome exploit chain; Anthropic Q3 $16.8B + IPO; CoreWeave bond/Goolsbee overheating; ASML; EU AI Act probes; UK hearing; 8 state AGs v OpenAI; Canadian publishers v Anthropic; Swarmchasers Amap agents; 400 scientists air-gap; GlobalFoundries/Japan; Apple China AI; Grok Voice 3; Tech Against Terrorism; MI5; YouTube Music labels; Anduril; DPRK laptop farms. Lightning: Zenzap; Honeywell; DeepMind scam detector; Hesai. Hype or Legit: Anthropic profit/$2T.</description>
+      <itunes:summary>XBOW GPT-5.6 Chrome exploit chain; Anthropic Q3 $16.8B + IPO; CoreWeave bond/Goolsbee overheating; ASML; EU AI Act probes; UK hearing; 8 state AGs v OpenAI; Canadian publishers v Anthropic; Swarmchasers Amap agents; 400 scientists air-gap; GlobalFoundries/Japan; Apple China AI; Grok Voice 3; Tech Against Terrorism; MI5; YouTube Music labels; Anduril; DPRK laptop farms. Lightning: Zenzap; Honeywell; DeepMind scam detector; Hesai. Hype or Legit: Anthropic profit/$2T.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-15.mp3" length="14424044" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-15</guid>
+      <pubDate>Thu, 15 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1802</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Wednesday, October 14, 2026</title>
       <description>Gemini 4 Argon GA; OpenAI engineer bugging arrest; Anthropic Scion; labs veto on evaluators; Nvidia China share/Huawei; Apple HomeView skips EU; Apple v OpenAI discovery; Qualcomm v Arm $2; DOJ NK laptop farms; Meta GitHub breach; Anthropic distillation; Xbox Labs; Meta Your Algorithm; Albert Invent; Apple Minions; Scaleway AMD. Lightning: Tencent bond; Decagon; Applied Intuition; NTT Osaka; Pluto. Hype or Legit: Clark RSI 2027.</description>
