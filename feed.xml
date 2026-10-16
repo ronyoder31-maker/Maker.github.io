@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 05:02:23 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:06:34 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Friday, October 16, 2026</title>
+      <description>Meta Muse Spark Open (M5 Ultra Mac Studio); FTC demands OpenAI/Anthropic; 8 state AGs v OpenAI; WH SI task force; DOJ halts Meta probe; Discover-Tech/Candiru; Microsoft Storm-2990; TSMC Q3; Dell/Barclays; Nvidia Nemotron 3.5; DeepSeek $14B; Proofpoint-Varonis; Perplexity SPACE; BofA Mythos; Accenture Claude cap; Meta scraping terms; Kentucky data center. Lightning: GitHub Autofix; FLUX 3 Klein; Cohere-AISLE; GPT-Live 1.1. Hype or Legit: Goodfire 90% neurons interpretable.</description>
+      <itunes:summary>Meta Muse Spark Open (M5 Ultra Mac Studio); FTC demands OpenAI/Anthropic; 8 state AGs v OpenAI; WH SI task force; DOJ halts Meta probe; Discover-Tech/Candiru; Microsoft Storm-2990; TSMC Q3; Dell/Barclays; Nvidia Nemotron 3.5; DeepSeek $14B; Proofpoint-Varonis; Perplexity SPACE; BofA Mythos; Accenture Claude cap; Meta scraping terms; Kentucky data center. Lightning: GitHub Autofix; FLUX 3 Klein; Cohere-AISLE; GPT-Live 1.1. Hype or Legit: Goodfire 90% neurons interpretable.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-16.mp3" length="13480940" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1685</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Thursday, October 15, 2026</title>
       <description>XBOW GPT-5.6 Chrome exploit chain; Anthropic Q3 $16.8B + IPO; CoreWeave bond/Goolsbee overheating; ASML; EU AI Act probes; UK hearing; 8 state AGs v OpenAI; Canadian publishers v Anthropic; Swarmchasers Amap agents; 400 scientists air-gap; GlobalFoundries/Japan; Apple China AI; Grok Voice 3; Tech Against Terrorism; MI5; YouTube Music labels; Anduril; DPRK laptop farms. Lightning: Zenzap; Honeywell; DeepMind scam detector; Hesai. Hype or Legit: Anthropic profit/$2T.</description>
