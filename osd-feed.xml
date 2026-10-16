@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 15 Oct 2026 05:34:30 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 05:33:13 +0200</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Friday, October 16, 2026</title>
+      <description>Muse Spark Open (816B, no fit in 64GB) + Apple MLX distributed; MLX 0.32.4 / llama.cpp b11645 / Ollama 0.40.5-rc0; curl CVE-2026-92392 (8.23.0); Next.js 16.4.1 RCEs; Libreboot 26.10; Schaller hw-harness. Tool: Sill. Quick: AI-DLC; GStreamer ZDI-26-775; PwnEscape; OpenCATS. Watch: Muse eval/mlx-lm merge, curl in Homebrew.</description>
+      <itunes:summary>Muse Spark Open (816B, no fit in 64GB) + Apple MLX distributed; MLX 0.32.4 / llama.cpp b11645 / Ollama 0.40.5-rc0; curl CVE-2026-92392 (8.23.0); Next.js 16.4.1 RCEs; Libreboot 26.10; Schaller hw-harness. Tool: Sill. Quick: AI-DLC; GStreamer ZDI-26-775; PwnEscape; OpenCATS. Watch: Muse eval/mlx-lm merge, curl in Homebrew.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-16.mp3" length="7882796" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-16</guid>
+      <pubDate>Fri, 16 Oct 2026 05:30:00 +0200</pubDate>
+      <itunes:duration>985</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Thursday, October 15, 2026</title>
       <description>TensorFold 1.0.10/1.0.11 (oQ mixed-width, cortheon security); Strata 0.1.44.1 Mac; VS Code 1.141.1 CVE-2026-102238; Nix/Lix root privesc; Ollama 0.40.4 stable decision models; VoiceStudio. Tool: VoiceStudio. Quick: Plasma 6.8; Asterinas 0.19; GCC LLM policy; Postgres 19 reverts. Watch: Linux 7.3 final, Nix/Lix CVEs.</description>
