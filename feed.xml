@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:06:34 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 05:08:04 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Saturday, October 17, 2026</title>
+      <description>Korea AI breach 16 firms; Archon CVE; Claude quantum circuits; Claude NIST ECDSA seeds; OpenAI rogue incidents; Reflection Beam; Anthropic $60B TPU debt/Blackstone; Anthropic employment+expectations surveys; Anthropic draft safety bill; Meta PAC refund; Taiwan chip smuggling law; MAI-Base-2; Microsoft Indiana power. Lightning: Postgres 19; Apple App Store rules; Italy deepfake; ChatGPT ads; Replit. Hype or Legit: 91% Nobel by 2030.</description>
+      <itunes:summary>Korea AI breach 16 firms; Archon CVE; Claude quantum circuits; Claude NIST ECDSA seeds; OpenAI rogue incidents; Reflection Beam; Anthropic $60B TPU debt/Blackstone; Anthropic employment+expectations surveys; Anthropic draft safety bill; Meta PAC refund; Taiwan chip smuggling law; MAI-Base-2; Microsoft Indiana power. Lightning: Postgres 19; Apple App Store rules; Italy deepfake; ChatGPT ads; Replit. Hype or Legit: 91% Nobel by 2030.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-17.mp3" length="11674604" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1459</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Friday, October 16, 2026</title>
       <description>Meta Muse Spark Open (M5 Ultra Mac Studio); FTC demands OpenAI/Anthropic; 8 state AGs v OpenAI; WH SI task force; DOJ halts Meta probe; Discover-Tech/Candiru; Microsoft Storm-2990; TSMC Q3; Dell/Barclays; Nvidia Nemotron 3.5; DeepSeek $14B; Proofpoint-Varonis; Perplexity SPACE; BofA Mythos; Accenture Claude cap; Meta scraping terms; Kentucky data center. Lightning: GitHub Autofix; FLUX 3 Klein; Cohere-AISLE; GPT-Live 1.1. Hype or Legit: Goodfire 90% neurons interpretable.</description>
