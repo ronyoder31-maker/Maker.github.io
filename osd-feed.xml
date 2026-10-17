@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Oct 2026 05:33:13 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 05:34:09 +0200</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Saturday, October 17, 2026</title>
+      <description>FLUX 3 Image Klein; Xoscar CVE-2026-49950; OpenBSD Big Fish; Ollama 0.40.5 Nemotron 3.5; mlx-lm 0.32.x. Tool: Ollama launch codex. Quick: Ubuntu 26.10; OpenOffice 4.1.17; GNOME OS Preview; PS5LM. Watch: Xoscar fix, Klein Mac numbers, Ollama 0.40.6.</description>
+      <itunes:summary>FLUX 3 Image Klein; Xoscar CVE-2026-49950; OpenBSD Big Fish; Ollama 0.40.5 Nemotron 3.5; mlx-lm 0.32.x. Tool: Ollama launch codex. Quick: Ubuntu 26.10; OpenOffice 4.1.17; GNOME OS Preview; PS5LM. Watch: Xoscar fix, Klein Mac numbers, Ollama 0.40.6.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-17.mp3" length="5911532" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-17</guid>
+      <pubDate>Sat, 17 Oct 2026 05:30:00 +0200</pubDate>
+      <itunes:duration>738</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Friday, October 16, 2026</title>
       <description>Muse Spark Open (816B, no fit in 64GB) + Apple MLX distributed; MLX 0.32.4 / llama.cpp b11645 / Ollama 0.40.5-rc0; curl CVE-2026-92392 (8.23.0); Next.js 16.4.1 RCEs; Libreboot 26.10; Schaller hw-harness. Tool: Sill. Quick: AI-DLC; GStreamer ZDI-26-775; PwnEscape; OpenCATS. Watch: Muse eval/mlx-lm merge, curl in Homebrew.</description>
