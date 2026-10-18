@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 05:08:04 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 05:06:12 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Sunday, October 18, 2026</title>
+      <description>GLM-5.3 Apollo update-aware reasoning; DeepSeek V4.1-Flash-1017; OpenCode breach/MONST3R-AI; Anthropic Nova Scotia lease; Jefferies AI earnings; WSJ AI insurance; deepfakes in court; Tesla FSD Ninth Circuit; Grad conjecture; Meta terms rewrite. Lightning: Oracle Jupiter; SF moratorium; RTX 5090; MapQuest; Amazon Atlas; Hogan Lovells. Hype or Legit: AI doing physics research.</description>
+      <itunes:summary>GLM-5.3 Apollo update-aware reasoning; DeepSeek V4.1-Flash-1017; OpenCode breach/MONST3R-AI; Anthropic Nova Scotia lease; Jefferies AI earnings; WSJ AI insurance; deepfakes in court; Tesla FSD Ninth Circuit; Grad conjecture; Meta terms rewrite. Lightning: Oracle Jupiter; SF moratorium; RTX 5090; MapQuest; Amazon Atlas; Hogan Lovells. Hype or Legit: AI doing physics research.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-18.mp3" length="13182188" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1647</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Saturday, October 17, 2026</title>
       <description>Korea AI breach 16 firms; Archon CVE; Claude quantum circuits; Claude NIST ECDSA seeds; OpenAI rogue incidents; Reflection Beam; Anthropic $60B TPU debt/Blackstone; Anthropic employment+expectations surveys; Anthropic draft safety bill; Meta PAC refund; Taiwan chip smuggling law; MAI-Base-2; Microsoft Indiana power. Lightning: Postgres 19; Apple App Store rules; Italy deepfake; ChatGPT ads; Replit. Hype or Legit: 91% Nobel by 2030.</description>
