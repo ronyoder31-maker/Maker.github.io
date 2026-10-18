@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Oct 2026 05:34:09 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 05:34:31 +0200</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Sunday, October 18, 2026</title>
+      <description>DeepSeek V4.1 Flash 1017 (MIT, no 64GB fit); Rapid-MLX 0.16.3; Ollama 0.40.6/0.40.7-rc0; MeshXFS; X.Org client lib vulns; Linux 7.3 due. Tool: Rapid-MLX. Quick: Wine 11.20; GNOME OS Preview; Darrick Wong; Moose 0.6. Watch: Linux 7.3 final, DeepSeek Mac numbers, Ollama 0.40.7.</description>
+      <itunes:summary>DeepSeek V4.1 Flash 1017 (MIT, no 64GB fit); Rapid-MLX 0.16.3; Ollama 0.40.6/0.40.7-rc0; MeshXFS; X.Org client lib vulns; Linux 7.3 due. Tool: Rapid-MLX. Quick: Wine 11.20; GNOME OS Preview; Darrick Wong; Moose 0.6. Watch: Linux 7.3 final, DeepSeek Mac numbers, Ollama 0.40.7.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-18.mp3" length="5943404" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 05:30:00 +0200</pubDate>
+      <itunes:duration>742</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Saturday, October 17, 2026</title>
       <description>FLUX 3 Image Klein; Xoscar CVE-2026-49950; OpenBSD Big Fish; Ollama 0.40.5 Nemotron 3.5; mlx-lm 0.32.x. Tool: Ollama launch codex. Quick: Ubuntu 26.10; OpenOffice 4.1.17; GNOME OS Preview; PS5LM. Watch: Xoscar fix, Klein Mac numbers, Ollama 0.40.6.</description>
