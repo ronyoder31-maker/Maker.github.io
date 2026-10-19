@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Oct 2026 05:34:31 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 05:33:54 +0200</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Monday, October 19, 2026</title>
+      <description>AuK MLX Swift port (research-license encoder); Linux 7.3 released; whatsapp-mcp; leanrea; huashu-motion v0.1.0. Tool: mlx-optiq 0.6.5. Quick: llama.cpp b11723; Torvalds 7.4 window; Servo 0.6; MOSS-Image MLX ports. Watch: Linux 7.4 merge window, AuK permissive encoder, Ollama 0.40.7.</description>
+      <itunes:summary>AuK MLX Swift port (research-license encoder); Linux 7.3 released; whatsapp-mcp; leanrea; huashu-motion v0.1.0. Tool: mlx-optiq 0.6.5. Quick: llama.cpp b11723; Torvalds 7.4 window; Servo 0.6; MOSS-Image MLX ports. Watch: Linux 7.4 merge window, AuK permissive encoder, Ollama 0.40.7.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-19.mp3" length="8693420" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 05:30:00 +0200</pubDate>
+      <itunes:duration>1086</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Sunday, October 18, 2026</title>
       <description>DeepSeek V4.1 Flash 1017 (MIT, no 64GB fit); Rapid-MLX 0.16.3; Ollama 0.40.6/0.40.7-rc0; MeshXFS; X.Org client lib vulns; Linux 7.3 due. Tool: Rapid-MLX. Quick: Wine 11.20; GNOME OS Preview; Darrick Wong; Moose 0.6. Watch: Linux 7.3 final, DeepSeek Mac numbers, Ollama 0.40.7.</description>
