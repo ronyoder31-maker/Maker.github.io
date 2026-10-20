@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 05:33:54 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:34:58 +0200</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Tuesday, October 20, 2026</title>
+      <description>Kapitsa 0.1.39 (Apache-2.0, Qwen/Nemotron Metal engine, 64GB fit); SGLang 0.5.22 Apple Silicon MPS; Mac.apk 1.0.2237 (AGPL, alpha); Plex exploitation (fixed 1.43.3); MiniMax M3.1 Flash (weights later); OpenBSD 8.0 + Wine port. Tool: Kapitsa quick start. Quick: Linux 7.4 EDAC/TAINT_FORCED_BIND; Ollama 0.40.7-rc0; Multipass 1.17. Watch: Linux 7.4 merge window, MiniMax weights, Kapitsa M5 benchmarks.</description>
+      <itunes:summary>Kapitsa 0.1.39 (Apache-2.0, Qwen/Nemotron Metal engine, 64GB fit); SGLang 0.5.22 Apple Silicon MPS; Mac.apk 1.0.2237 (AGPL, alpha); Plex exploitation (fixed 1.43.3); MiniMax M3.1 Flash (weights later); OpenBSD 8.0 + Wine port. Tool: Kapitsa quick start. Quick: Linux 7.4 EDAC/TAINT_FORCED_BIND; Ollama 0.40.7-rc0; Multipass 1.17. Watch: Linux 7.4 merge window, MiniMax weights, Kapitsa M5 benchmarks.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-20.mp3" length="8549228" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 05:30:00 +0200</pubDate>
+      <itunes:duration>1068</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Monday, October 19, 2026</title>
       <description>AuK MLX Swift port (research-license encoder); Linux 7.3 released; whatsapp-mcp; leanrea; huashu-motion v0.1.0. Tool: mlx-optiq 0.6.5. Quick: llama.cpp b11723; Torvalds 7.4 window; Servo 0.6; MOSS-Image MLX ports. Watch: Linux 7.4 merge window, AuK permissive encoder, Ollama 0.40.7.</description>
