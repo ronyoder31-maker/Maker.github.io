@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Oct 2026 05:06:27 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 05:06:01 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Tuesday, October 20, 2026</title>
+      <description>OpenAI $30B raise at $1.4T; Schmidt Anthropic stake; Meta Prometheus; Meta Muse address leak; Meta blames Claude for No Kings ban; Nscale-Anthropic $45B; chip rebound; Elice IPO; Waymo 20K; Tenstorrent $1.5B; TorchNeuron; Character.AI 39 AGs; Deloitte Australia. Lightning: Mercury 3; Hex-Rays/HexAI; Dream Labs; Cloudflare Clairic. Hype or Legit: OfficeTown 74% benchmark.</description>
+      <itunes:summary>OpenAI $30B raise at $1.4T; Schmidt Anthropic stake; Meta Prometheus; Meta Muse address leak; Meta blames Claude for No Kings ban; Nscale-Anthropic $45B; chip rebound; Elice IPO; Waymo 20K; Tenstorrent $1.5B; TorchNeuron; Character.AI 39 AGs; Deloitte Australia. Lightning: Mercury 3; Hex-Rays/HexAI; Dream Labs; Cloudflare Clairic. Hype or Legit: OfficeTown 74% benchmark.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-20.mp3" length="14020844" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-20</guid>
+      <pubDate>Tue, 20 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1752</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Monday, October 19, 2026</title>
       <description>Anthropic Public Benefit Fund; OpenAI humanoid; banks/sites block AI agents; chip rout 8 days; neocloud shakeout/Nscale IPO; DOE nuclear restarts/SoftBank Ohio; Samsung-TSMC HBM base die; OpenAI aurora models; AI wearables wiretap/BA glasses; Korea No Books No AI; Walmart AI pricing. Lightning: Warcraft RL; Kimi teen leaves; Promise Robotics; MIT crystal model. Hype or Legit: only 7-10 neoclouds survive.</description>
