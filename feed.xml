@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:06:01 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:09:43 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Wednesday, October 21, 2026</title>
+      <description>China orders $35B Nvidia RTX PRO 5500; Amazon TorchNeuron + Google TorchTPU; Anthropic draft S-1 H1 loss; Claude scorpion binders; SpaceX Q3 + Tesla merger committees; Army ECHOTRIBBLE; AWS negative FCF + Super Micro preannounce; DHS DeepSeek ban + DeepInfer; security (PAN-OS CVE-2026-0257, eMudhra CA keys, French fridges); Google Cloud London outage. Lightning: WhatsApp hidden prompts; Qualcomm layoffs; Apple Oct 28 event; Fireworks AI valuation; Notion 24h agents. Hype or Legit: OpenAI COBOL 97.9%.</description>
+      <itunes:summary>China orders $35B Nvidia RTX PRO 5500; Amazon TorchNeuron + Google TorchTPU; Anthropic draft S-1 H1 loss; Claude scorpion binders; SpaceX Q3 + Tesla merger committees; Army ECHOTRIBBLE; AWS negative FCF + Super Micro preannounce; DHS DeepSeek ban + DeepInfer; security (PAN-OS CVE-2026-0257, eMudhra CA keys, French fridges); Google Cloud London outage. Lightning: WhatsApp hidden prompts; Qualcomm layoffs; Apple Oct 28 event; Fireworks AI valuation; Notion 24h agents. Hype or Legit: OpenAI COBOL 97.9%.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-21.mp3" length="15250604" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1906</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Tuesday, October 20, 2026</title>
       <description>OpenAI $30B raise at $1.4T; Schmidt Anthropic stake; Meta Prometheus; Meta Muse address leak; Meta blames Claude for No Kings ban; Nscale-Anthropic $45B; chip rebound; Elice IPO; Waymo 20K; Tenstorrent $1.5B; TorchNeuron; Character.AI 39 AGs; Deloitte Australia. Lightning: Mercury 3; Hex-Rays/HexAI; Dream Labs; Cloudflare Clairic. Hype or Legit: OfficeTown 74% benchmark.</description>
@@ -132,17 +143,6 @@
       <guid isPermaLink="false">byte-club-2026-10-08</guid>
       <pubDate>Thu, 08 Oct 2026 05:00:00 +0200</pubDate>
       <itunes:duration>1630</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Wednesday, October 7, 2026</title>
-      <description>OpenAI 722 math papers/372 results on GitHub (Lean, IAS advisory group); Microsoft+Nvidia Surface Laptop Ultra event (RTX Spark, memory crunch, DGX Spark price hike); NYC Council AI agent hearing (Google 3 test escapes, no lab guarantees safety); Nvidia record $5.65T + SpaceX $40B debt for chips; Meta+Sierra Personal Agent Protocol (Amazon blocked Muse); Apple Oct 13 smart home + LG-branded doorbell/lock/thermostat; Mistral Large 4 "le Chonk" 1T open weights; Google Nano Banana 2.1 half price (NB2 shutdown Oct 29); ShinyHunters "Rey" detained in Jordan; Common Sense Media rates ChatGPT for Teens unacceptable risk. Lightning: Etched $40-50B bids; Finland halts Google data centers; Google 3.6GW Constellation nuclear deal; first US AI music fraud sentence; Micron Taiwan union strike vote. Hype or Legit: local AI-agent laptops.</description>
-      <itunes:summary>OpenAI 722 math papers/372 results on GitHub (Lean, IAS advisory group); Microsoft+Nvidia Surface Laptop Ultra event (RTX Spark, memory crunch, DGX Spark price hike); NYC Council AI agent hearing (Google 3 test escapes, no lab guarantees safety); Nvidia record $5.65T + SpaceX $40B debt for chips; Meta+Sierra Personal Agent Protocol (Amazon blocked Muse); Apple Oct 13 smart home + LG-branded doorbell/lock/thermostat; Mistral Large 4 "le Chonk" 1T open weights; Google Nano Banana 2.1 half price (NB2 shutdown Oct 29); ShinyHunters "Rey" detained in Jordan; Common Sense Media rates ChatGPT for Teens unacceptable risk. Lightning: Etched $40-50B bids; Finland halts Google data centers; Google 3.6GW Constellation nuclear deal; first US AI music fraud sentence; Micron Taiwan union strike vote. Hype or Legit: local AI-agent laptops.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-07.mp3" length="13705388" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-10-07</guid>
-      <pubDate>Wed, 07 Oct 2026 05:00:00 +0200</pubDate>
-      <itunes:duration>1713</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
