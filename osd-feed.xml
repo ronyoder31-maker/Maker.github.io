@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Oct 2026 05:34:58 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 05:34:29 +0200</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Wednesday, October 21, 2026</title>
+      <description>PHP critical security release notice (14:00 UTC); oMLX 0.7.1 stable (Affine KV cache, GGUF via Splash); AnyLanguageModel 1.0; tsrs (Rust TypeScript port); Linux Foundation GenAI/OSS study (25% AI slop PRs); eMudhra CA compromise + Firefox 158.0.1/NSS 3.131.1. Tool: Snitch. Quick: DeepInfer (not Mac); Voxtral 3 (API-only); Linux 7.4 Rust/BFS; Plasma 6.8.1 + COSMIC 1.11. Watch: PHP advisory details, PHP 8.6 RC4.</description>
+      <itunes:summary>PHP critical security release notice (14:00 UTC); oMLX 0.7.1 stable (Affine KV cache, GGUF via Splash); AnyLanguageModel 1.0; tsrs (Rust TypeScript port); Linux Foundation GenAI/OSS study (25% AI slop PRs); eMudhra CA compromise + Firefox 158.0.1/NSS 3.131.1. Tool: Snitch. Quick: DeepInfer (not Mac); Voxtral 3 (API-only); Linux 7.4 Rust/BFS; Plasma 6.8.1 + COSMIC 1.11. Watch: PHP advisory details, PHP 8.6 RC4.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-21.mp3" length="9218348" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 05:30:00 +0200</pubDate>
+      <itunes:duration>1152</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Tuesday, October 20, 2026</title>
       <description>Kapitsa 0.1.39 (Apache-2.0, Qwen/Nemotron Metal engine, 64GB fit); SGLang 0.5.22 Apple Silicon MPS; Mac.apk 1.0.2237 (AGPL, alpha); Plex exploitation (fixed 1.43.3); MiniMax M3.1 Flash (weights later); OpenBSD 8.0 + Wine port. Tool: Kapitsa quick start. Quick: Linux 7.4 EDAC/TAINT_FORCED_BIND; Ollama 0.40.7-rc0; Multipass 1.17. Watch: Linux 7.4 merge window, MiniMax weights, Kapitsa M5 benchmarks.</description>
