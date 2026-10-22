@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 21 Oct 2026 05:09:43 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 05:07:35 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Thursday, October 22, 2026</title>
+      <description>PHP2Shell critical RCEs/OpenAI Patch the Planet + GitLab CVSS 10, LiteLLM backdoor, Railway; Claude Duet; Meta Q3 + Class C stock + NM $25B; OpenAI on Google Cloud; Nvidia GTC Berlin DSX POD/supply chain; DeepSeek $15B raise + MOFCOM; Mistral Large 4; Funding (Flapping Airplanes $1B, Legora, Eka, Otter); KLS conjecture. Lightning: OpenAI monitor-disabling agents; DeepMind resignation; Texas data center NOx. Hype or Legit: Recursive Flint 89.7% SWE-bench Pro v2.</description>
+      <itunes:summary>PHP2Shell critical RCEs/OpenAI Patch the Planet + GitLab CVSS 10, LiteLLM backdoor, Railway; Claude Duet; Meta Q3 + Class C stock + NM $25B; OpenAI on Google Cloud; Nvidia GTC Berlin DSX POD/supply chain; DeepSeek $15B raise + MOFCOM; Mistral Large 4; Funding (Flapping Airplanes $1B, Legora, Eka, Otter); KLS conjecture. Lightning: OpenAI monitor-disabling agents; DeepMind resignation; Texas data center NOx. Hype or Legit: Recursive Flint 89.7% SWE-bench Pro v2.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-22.mp3" length="13861100" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1732</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Wednesday, October 21, 2026</title>
       <description>China orders $35B Nvidia RTX PRO 5500; Amazon TorchNeuron + Google TorchTPU; Anthropic draft S-1 H1 loss; Claude scorpion binders; SpaceX Q3 + Tesla merger committees; Army ECHOTRIBBLE; AWS negative FCF + Super Micro preannounce; DHS DeepSeek ban + DeepInfer; security (PAN-OS CVE-2026-0257, eMudhra CA keys, French fridges); Google Cloud London outage. Lightning: WhatsApp hidden prompts; Qualcomm layoffs; Apple Oct 28 event; Fireworks AI valuation; Notion 24h agents. Hype or Legit: OpenAI COBOL 97.9%.</description>
@@ -132,17 +143,6 @@
       <guid isPermaLink="false">byte-club-2026-10-09</guid>
       <pubDate>Fri, 09 Oct 2026 05:00:00 +0200</pubDate>
       <itunes:duration>1481</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Thursday, October 8, 2026</title>
-      <description>GPT-6 + Intelligent UI; Claude Haiku 5.5 price cut; fired OpenAI safety trio letter; Samsung record Q3 profit; Wolfspeed $1.5B DoW loan; China 16 models in Sept; Lean 11-square proof + OpenAI math; funding (Nous, Mecka, Keyu Tian lab, Healthleap, Parallel Systems); Broadcom $50B OpenAI chip financing; Common Sense vs ChatGPT Teens; MXC/Docker Agent/NeMo-DCR. Lightning: Finland Google halt; Google-Constellation (again); Claude in Google Workspace; EU levy; S.Korea AI. Security: Atlassian CVE-2026-21589, FortiBleed, Pwn2Own. Hype or Legit: Nous Hermes 2.5% tokens.</description>
-      <itunes:summary>GPT-6 + Intelligent UI; Claude Haiku 5.5 price cut; fired OpenAI safety trio letter; Samsung record Q3 profit; Wolfspeed $1.5B DoW loan; China 16 models in Sept; Lean 11-square proof + OpenAI math; funding (Nous, Mecka, Keyu Tian lab, Healthleap, Parallel Systems); Broadcom $50B OpenAI chip financing; Common Sense vs ChatGPT Teens; MXC/Docker Agent/NeMo-DCR. Lightning: Finland Google halt; Google-Constellation (again); Claude in Google Workspace; EU levy; S.Korea AI. Security: Atlassian CVE-2026-21589, FortiBleed, Pwn2Own. Hype or Legit: Nous Hermes 2.5% tokens.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-08.mp3" length="13046444" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-10-08</guid>
-      <pubDate>Thu, 08 Oct 2026 05:00:00 +0200</pubDate>
-      <itunes:duration>1630</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
