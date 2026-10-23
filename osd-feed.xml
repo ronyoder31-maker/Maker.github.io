@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Oct 2026 05:36:53 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 05:34:52 +0200</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Friday, October 23, 2026</title>
+      <description>Recursive Flint (Apache-2.0, 40B MoE, 22.6GB MLX int4 fits 64GB; Ollama 0.40.8, rec engine); Ollama 0.40.9 Phonon TTS + d3 decision models; oMLX 0.7.2 (Claude Code prefill fix, Splash 1.4); Modular MAX source-available MAX License; ZDI kernel vuln reports (ksmbd) accidentally public; KeePassXC 2.8.0 (macOS quick unlock). Tool: editmd 0.1.0. Quick: Fedora 45 second no-go (Nov 3); Linux 7.4 workqueue flush; Mesa AGENTS.md loosened; x86 kernel shadow stacks. Watch: independent Flint Mac benchmarks, ksmbd patches.</description>
+      <itunes:summary>Recursive Flint (Apache-2.0, 40B MoE, 22.6GB MLX int4 fits 64GB; Ollama 0.40.8, rec engine); Ollama 0.40.9 Phonon TTS + d3 decision models; oMLX 0.7.2 (Claude Code prefill fix, Splash 1.4); Modular MAX source-available MAX License; ZDI kernel vuln reports (ksmbd) accidentally public; KeePassXC 2.8.0 (macOS quick unlock). Tool: editmd 0.1.0. Quick: Fedora 45 second no-go (Nov 3); Linux 7.4 workqueue flush; Mesa AGENTS.md loosened; x86 kernel shadow stacks. Watch: independent Flint Mac benchmarks, ksmbd patches.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-23.mp3" length="9095276" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-23</guid>
+      <pubDate>Fri, 23 Oct 2026 05:30:00 +0200</pubDate>
+      <itunes:duration>1136</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Thursday, October 22, 2026</title>
       <description>PHP critical RCEs CVE-2026-109618/109619 (8.5.12 etc.); LiteLLM 1.107.0 PyPI/Docker compromise; GitLab CVSS 10 CVE-2026-110264 + Node.js security releases + musl regcomp CVE-2026-107891; KRAFTON Raon-1 mini preview MLX (Apache-2.0, 17.5GB fits 64GB); MLX-Serve v26.10.3-pre-release.1 (MIT); DuckDB 2.0.0 LTS. Tool: cloudflare security-audit-skill. Quick: mitmproxy --emudhra; Linux 7.4 Torvalds get_user removal + kbuild speedups; Omnara. Watch: LiteLLM investigation updates, MLX-Serve stable.</description>
