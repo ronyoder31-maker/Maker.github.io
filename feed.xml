@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Oct 2026 05:13:19 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 05:07:02 +0200</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Saturday, October 24, 2026</title>
+      <description>OpenAI no-internet frontier training/red-team containment; Anthropic+UK AISI Mythos 5 alignment assessment; AI buildout credit stress (neoclouds, CDS, Solidigm IPO pulled); Apple iPhone Duo launch/passes Nvidia; Kimi K3.1 Pro; Security (PHP2Shell follow-up, Arista VeloCloud zero-day, Node2Shell, Fortinet AI-credited pre-announce); Google ads/Personal Intelligence; AmEx 3,500 cuts + Sweden gov blocks ChatGPT/Claude; Russia deepfakes midterms + UK AI biosecurity lab; Funding (Pathos, Xona, Tractian, Utopai). Lightning: Meta-Sundial; Figure F.04; Google Cloud Vera Rubin A5X. Hype or Legit: newer Claude models less likely to attack.</description>
+      <itunes:summary>OpenAI no-internet frontier training/red-team containment; Anthropic+UK AISI Mythos 5 alignment assessment; AI buildout credit stress (neoclouds, CDS, Solidigm IPO pulled); Apple iPhone Duo launch/passes Nvidia; Kimi K3.1 Pro; Security (PHP2Shell follow-up, Arista VeloCloud zero-day, Node2Shell, Fortinet AI-credited pre-announce); Google ads/Personal Intelligence; AmEx 3,500 cuts + Sweden gov blocks ChatGPT/Claude; Russia deepfakes midterms + UK AI biosecurity lab; Funding (Pathos, Xona, Tractian, Utopai). Lightning: Meta-Sundial; Figure F.04; Google Cloud Vera Rubin A5X. Hype or Legit: newer Claude models less likely to attack.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-24.mp3" length="15489644" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-24</guid>
+      <pubDate>Sat, 24 Oct 2026 05:00:00 +0200</pubDate>
+      <itunes:duration>1936</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Friday, October 23, 2026</title>
       <description>Nasdaq -2.6% chip rout/Meta $825B commitments &amp; negative FCF; Anthropic Claude formal verification 123 OSS libs (Rocq/RISC-V); METR/Redwood red-team of OpenAI agent monitor; Storm-0940 ARTEX ConnectWise; OpenAI $30B at $1.25T (UAE/Coatue); Treasury outbound AI investment rule; ABC/WaPo/Ipsos AI poll + Goldman 9%; Agentic AI Foundation 4 projects + Walmart Agent Gateway; Nvidia-PreussenElektra nuclear sites. Lightning: Uber ChatGPT Work; Google Meet 63 languages; 302.ai 22.7TB leak; Arista VeloCloud zero-day. Hype or Legit: MAI-DxO 83% vs 36%.</description>
@@ -132,17 +143,6 @@
       <guid isPermaLink="false">byte-club-2026-10-11</guid>
       <pubDate>Sun, 11 Oct 2026 05:00:00 +0200</pubDate>
       <itunes:duration>1786</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Saturday, October 10, 2026</title>
-      <description>White House AI incident disclosure + Anthropic test-model visa forms/Philly tip; labs war-game catastrophic event; Amodei asked Meta for compute; Zenity AgentCorruption AWS AgentCore + ARTEX; USA Today sues OpenAI; funding (Ramp $60B, Oxide, Nuvacore, TypeSafe, 42 decacorns); Super Micro fixer plea; Tesla Assisted Driving Europe; Zuckerberg Muse NYT; Microsoft Decision-1/Liquid d1; Gemini 4 Carbon; Sabi. Lightning: UK non-compete ban; Alibaba sues Pentagon; SemiAnalysis China safety; Qwen-Image 2.1 Turbo; Prime Intellect Rust; Iran ChatGPT op. Hype or Legit: Memento 3 ARC-AGI-3.</description>
-      <itunes:summary>White House AI incident disclosure + Anthropic test-model visa forms/Philly tip; labs war-game catastrophic event; Amodei asked Meta for compute; Zenity AgentCorruption AWS AgentCore + ARTEX; USA Today sues OpenAI; funding (Ramp $60B, Oxide, Nuvacore, TypeSafe, 42 decacorns); Super Micro fixer plea; Tesla Assisted Driving Europe; Zuckerberg Muse NYT; Microsoft Decision-1/Liquid d1; Gemini 4 Carbon; Sabi. Lightning: UK non-compete ban; Alibaba sues Pentagon; SemiAnalysis China safety; Qwen-Image 2.1 Turbo; Prime Intellect Rust; Iran ChatGPT op. Hype or Legit: Memento 3 ARC-AGI-3.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-10.mp3" length="12709484" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-10-10</guid>
-      <pubDate>Sat, 10 Oct 2026 05:00:00 +0200</pubDate>
-      <itunes:duration>1588</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
