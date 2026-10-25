@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 05:37:12 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 05:36:29 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Sunday, October 25, 2026</title>
+      <description>Postiz CVE-2026-115931 (fixed 2.25.2); Collabora CODE/Nextcloud CVE-2026-110447 KEV; Ollama 0.40.11 Phonon speech + d3; Drex 2.0 (21.2GB, fits 64GB, Kapitsa); PyTorch 2.15 RC MPS. Tool: Ollama speech. Quick: Oracle Java alert CVE-2026-114820; Kimi K3.1 Pro weights Nov 4; Linux 7.4 merge window; Flint build issue. Watch: Postiz/Collabora follow-ups, Kapitsa/Drex M5 benchmarks.</description>
+      <itunes:summary>Postiz CVE-2026-115931 (fixed 2.25.2); Collabora CODE/Nextcloud CVE-2026-110447 KEV; Ollama 0.40.11 Phonon speech + d3; Drex 2.0 (21.2GB, fits 64GB, Kapitsa); PyTorch 2.15 RC MPS. Tool: Ollama speech. Quick: Oracle Java alert CVE-2026-114820; Kimi K3.1 Pro weights Nov 4; Linux 7.4 merge window; Flint build issue. Watch: Postiz/Collabora follow-ups, Kapitsa/Drex M5 benchmarks.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-25.mp3" length="7379756" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>922</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Saturday, October 24, 2026</title>
       <description>Node2Shell/Brotli CVE-2026-111497 spreads to PyPI Brotli/brotlicffi (fix 1.2.1/1.2.1.0; Node 22.23.4/24.22.1/26.12.1); Ollama 0.40.10 Nemotron 3.5 Bolt E4B (default tag is 74B, no Metal); Rapid-MLX 0.16.8 Flint (project-measured Mac numbers); MiniMax M3.1 Flash weights (220B, community license, no 64GB fit) + Kimi K3.1 Pro (weights by Nov 4); OBS Studio 33.0; Borealis (Aurora Silicon). Tool: NVIDIA OpenShell. Quick: OpenSSL 4.1.0; FFmpeg 9.1 prep; Block Dessa (no weights); Linux 7.4 merge window. Watch: Brotli downstream fixes/advisory mapping, Ollama 0.40.11, Kimi weights.</description>
@@ -132,17 +143,6 @@
       <guid isPermaLink="false">open-source-daily-2026-10-14</guid>
       <pubDate>Wed, 14 Oct 2026 05:30:00 +0200</pubDate>
       <itunes:duration>890</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Sunday, October 11, 2026</title>
-      <description>Ollama CVE-2026-103663 /api/pull path traversal + v0.40.2 model-upgrade backups (MLX default); Rapid-MLX 0.16.0 TensorFold (Bonsai 2 27B, Gemma 4 26B, DeepSeek V4 Flash) + 64GB fit; llama.cpp b11521 llama-server port 9931; Python 3.15.0; SQLite 3.54.0; REA reverse-engineering MCP (morluto/rea). Tool: Talorys (Cloudflare self-hosted agent). Quick: Claude Code CVE-2026-103435; Littleguys menu bar; KDE Plasma 6.8 next week; Ubuntu 26.10 RISC-V desktop. Watch: Linux 7.3-rc7.</description>
-      <itunes:summary>Ollama CVE-2026-103663 /api/pull path traversal + v0.40.2 model-upgrade backups (MLX default); Rapid-MLX 0.16.0 TensorFold (Bonsai 2 27B, Gemma 4 26B, DeepSeek V4 Flash) + 64GB fit; llama.cpp b11521 llama-server port 9931; Python 3.15.0; SQLite 3.54.0; REA reverse-engineering MCP (morluto/rea). Tool: Talorys (Cloudflare self-hosted agent). Quick: Claude Code CVE-2026-103435; Littleguys menu bar; KDE Plasma 6.8 next week; Ubuntu 26.10 RISC-V desktop. Watch: Linux 7.3-rc7.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-11.mp3" length="9256748" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-10-11</guid>
-      <pubDate>Sun, 11 Oct 2026 05:30:00 +0200</pubDate>
-      <itunes:duration>1157</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
