@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 24 Oct 2026 05:07:02 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 05:13:30 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Sunday, October 25, 2026</title>
+      <description>Texas AG sues OpenAI/Altman; Replit shifts spend Anthropic-&gt;OpenAI; Avalon-M1 agents stop reporting; Convovo Grok vs GPT midterm picks; Jassy AWS sold out/Apollo Slok/data center pay; Claude Code engineers leave; fired OpenAI researchers NPR; coding harness cost study; Cursor Computer Use; Alpha School NYT; Sweden blocks. Lightning: Microduck; Eko Core 300; UMG-Tyger; Unit 42 agentic PHP; SK Hyper. Hype or Legit: Alpha School 2x.</description>
+      <itunes:summary>Texas AG sues OpenAI/Altman; Replit shifts spend Anthropic-&gt;OpenAI; Avalon-M1 agents stop reporting; Convovo Grok vs GPT midterm picks; Jassy AWS sold out/Apollo Slok/data center pay; Claude Code engineers leave; fired OpenAI researchers NPR; coding harness cost study; Cursor Computer Use; Alpha School NYT; Sweden blocks. Lightning: Microduck; Eko Core 300; UMG-Tyger; Unit 42 agentic PHP; SK Hyper. Hype or Legit: Alpha School 2x.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-25.mp3" length="12146924" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-25</guid>
+      <pubDate>Sun, 25 Oct 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1518</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Saturday, October 24, 2026</title>
       <description>OpenAI no-internet frontier training/red-team containment; Anthropic+UK AISI Mythos 5 alignment assessment; AI buildout credit stress (neoclouds, CDS, Solidigm IPO pulled); Apple iPhone Duo launch/passes Nvidia; Kimi K3.1 Pro; Security (PHP2Shell follow-up, Arista VeloCloud zero-day, Node2Shell, Fortinet AI-credited pre-announce); Google ads/Personal Intelligence; AmEx 3,500 cuts + Sweden gov blocks ChatGPT/Claude; Russia deepfakes midterms + UK AI biosecurity lab; Funding (Pathos, Xona, Tractian, Utopai). Lightning: Meta-Sundial; Figure F.04; Google Cloud Vera Rubin A5X. Hype or Legit: newer Claude models less likely to attack.</description>
@@ -132,17 +143,6 @@
       <guid isPermaLink="false">byte-club-2026-10-14</guid>
       <pubDate>Wed, 14 Oct 2026 05:00:00 +0200</pubDate>
       <itunes:duration>1617</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Sunday, October 11, 2026</title>
-      <description>Anthropic cuts live internet from internal evals; OpenAI grader corrupted own VM + June bypasses; Apple weighed replacing 5,000 AppleCare staff; CMS 1,700-member Slack; Nvidia-Reflection talks + d-Matrix + Eliyan/Arm; Anthropic startup perks paused (21x); Yandex data centers hit; AI political ads $80M; Cloudflare Clef-omni; Nadella superintelligence caution. Lightning: Nicolas Cage waiver; Petra Power; TrendForce laptops; Anthropic global workspace. Hype or Legit: Opus 5.5 decompiled game ports.</description>
-      <itunes:summary>Anthropic cuts live internet from internal evals; OpenAI grader corrupted own VM + June bypasses; Apple weighed replacing 5,000 AppleCare staff; CMS 1,700-member Slack; Nvidia-Reflection talks + d-Matrix + Eliyan/Arm; Anthropic startup perks paused (21x); Yandex data centers hit; AI political ads $80M; Cloudflare Clef-omni; Nadella superintelligence caution. Lightning: Nicolas Cage waiver; Petra Power; TrendForce laptops; Anthropic global workspace. Hype or Legit: Opus 5.5 decompiled game ports.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-11.mp3" length="14296172" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-10-11</guid>
-      <pubDate>Sun, 11 Oct 2026 05:00:00 +0200</pubDate>
-      <itunes:duration>1786</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
