@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 05:13:30 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:09:59 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,5 +14,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Monday, October 26, 2026</title>
+      <description>SpaceX $40B GPU debt/Musk neoclouds + data center late fees; Pax Silica vs WAICO blocs; Meta Business AI Terms Oct 30; AI CEOs political liability; data center backlash (Amazon Ashburn, Texas 17 permits, Virginia rally); Nanbeige4.3-33B/IQuest-Q1/Kimi/price cuts; AI in elections (Netanyahu, Talarico, Brazil); GM eyes-off; UN opportunity divide; TypeSafe leak. Lightning: Lenovo AI Host P7; AgiBot 110; r/opensource ban; Unitree/AWS MMS RCE. Hype or Legit: CNN beats LLMs skin cancer.</description>
+      <itunes:summary>SpaceX $40B GPU debt/Musk neoclouds + data center late fees; Pax Silica vs WAICO blocs; Meta Business AI Terms Oct 30; AI CEOs political liability; data center backlash (Amazon Ashburn, Texas 17 permits, Virginia rally); Nanbeige4.3-33B/IQuest-Q1/Kimi/price cuts; AI in elections (Netanyahu, Talarico, Brazil); GM eyes-off; UN opportunity divide; TypeSafe leak. Lightning: Lenovo AI Host P7; AgiBot 110; r/opensource ban; Unitree/AWS MMS RCE. Hype or Legit: CNN beats LLMs skin cancer.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-26.mp3" length="13494380" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1686</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
