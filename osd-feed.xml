@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 25 Oct 2026 05:36:29 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 05:35:51 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,5 +14,16 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Monday, October 26, 2026</title>
+      <description>PHP third RCE CVE-2026-115560 unpatched + PHP2Shell exploited from Oct 17; Brotli/Node2Shell reaches Go (vendor claim); Postiz CVE-2026-115933 (2.25.3); Nanbeige4.3-33B (Apache-2.0); systemd Rust + Linux 7.4 Binder/AI flood. Tool: MLX-Serve v26.10.3 stable. Quick: llama.cpp JSON depth limit; AV2/SVT-AV2; Linux 7.4 Apple M4 NVMe; Wild 0.11. Watch: PHP third-bug patch, Go Brotli advisories, Kimi K3.1 weights Nov 4.</description>
+      <itunes:summary>PHP third RCE CVE-2026-115560 unpatched + PHP2Shell exploited from Oct 17; Brotli/Node2Shell reaches Go (vendor claim); Postiz CVE-2026-115933 (2.25.3); Nanbeige4.3-33B (Apache-2.0); systemd Rust + Linux 7.4 Binder/AI flood. Tool: MLX-Serve v26.10.3 stable. Quick: llama.cpp JSON depth limit; AV2/SVT-AV2; Linux 7.4 Apple M4 NVMe; Wild 0.11. Watch: PHP third-bug patch, Go Brotli advisories, Kimi K3.1 weights Nov 4.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-26.mp3" length="7741676" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-26</guid>
+      <pubDate>Mon, 26 Oct 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>967</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
