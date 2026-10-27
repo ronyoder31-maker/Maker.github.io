@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 26 Oct 2026 05:35:51 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 05:34:46 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Tuesday, October 27, 2026</title>
+      <description>Cloudflare Workers AI GLM-5.3 KV-cache leak / SGLang 0.5.22 fix; Ollama 0.40.12-rc0 MLX DFlash2; MLX-LM Flint + MLX-VLM MiniMax M3.1 Flash (no 64GB fit); Linux 7.4 Apple M4 support; Pharo 14. Tool: mlx-audio. Quick: KMSCON 10.1; kwin-type; Mesa 27 Kraid; mlx-decision. Watch: Ollama 0.40.12 stable, DFlash2 Mac benchmarks, Kimi K3.1 weights Nov 4.</description>
+      <itunes:summary>Cloudflare Workers AI GLM-5.3 KV-cache leak / SGLang 0.5.22 fix; Ollama 0.40.12-rc0 MLX DFlash2; MLX-LM Flint + MLX-VLM MiniMax M3.1 Flash (no 64GB fit); Linux 7.4 Apple M4 support; Pharo 14. Tool: mlx-audio. Quick: KMSCON 10.1; kwin-type; Mesa 27 Kraid; mlx-decision. Watch: Ollama 0.40.12 stable, DFlash2 Mac benchmarks, Kimi K3.1 weights Nov 4.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-27.mp3" length="5870828" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-27</guid>
+      <pubDate>Tue, 27 Oct 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>733</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Monday, October 26, 2026</title>
       <description>PHP third RCE CVE-2026-115560 unpatched + PHP2Shell exploited from Oct 17; Brotli/Node2Shell reaches Go (vendor claim); Postiz CVE-2026-115933 (2.25.3); Nanbeige4.3-33B (Apache-2.0); systemd Rust + Linux 7.4 Binder/AI flood. Tool: MLX-Serve v26.10.3 stable. Quick: llama.cpp JSON depth limit; AV2/SVT-AV2; Linux 7.4 Apple M4 NVMe; Wild 0.11. Watch: PHP third-bug patch, Go Brotli advisories, Kimi K3.1 weights Nov 4.</description>
