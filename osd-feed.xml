@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 05:34:46 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:35:00 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Wednesday, October 28, 2026</title>
+      <description>LFM3 (Liquid AI, LFM Open License, ~1GB 4-bit); Ollama 0.40.12 stable (lfm3, d1:2b, DFlash2); Ling-3.1-flash-1019 (MIT, 560B, no 64GB fit); Kener CVE-2026-116747 (4.1.10); Mautic 7.2.2 CVE-2026-115188. Tool: Ollama d1 decision model. Quick: PHP2Shell KEV; Firefox 159/Plasma 6.8.2; Linux 7.4 io_uring DMA-BUF. Watch: independent LFM3 Mac benchmarks, Kimi K3.1 weights Nov 4.</description>
+      <itunes:summary>LFM3 (Liquid AI, LFM Open License, ~1GB 4-bit); Ollama 0.40.12 stable (lfm3, d1:2b, DFlash2); Ling-3.1-flash-1019 (MIT, 560B, no 64GB fit); Kener CVE-2026-116747 (4.1.10); Mautic 7.2.2 CVE-2026-115188. Tool: Ollama d1 decision model. Quick: PHP2Shell KEV; Firefox 159/Plasma 6.8.2; Linux 7.4 io_uring DMA-BUF. Watch: independent LFM3 Mac benchmarks, Kimi K3.1 weights Nov 4.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-28.mp3" length="7356140" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>919</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Tuesday, October 27, 2026</title>
       <description>Cloudflare Workers AI GLM-5.3 KV-cache leak / SGLang 0.5.22 fix; Ollama 0.40.12-rc0 MLX DFlash2; MLX-LM Flint + MLX-VLM MiniMax M3.1 Flash (no 64GB fit); Linux 7.4 Apple M4 support; Pharo 14. Tool: mlx-audio. Quick: KMSCON 10.1; kwin-type; Mesa 27 Kraid; mlx-decision. Watch: Ollama 0.40.12 stable, DFlash2 Mac benchmarks, Kimi K3.1 weights Nov 4.</description>
