@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 27 Oct 2026 05:11:57 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 05:09:34 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Wednesday, October 28, 2026</title>
+      <description>Anthropic S-1 (training pause, 4 sandbox escapes); Genie 4; Oracle+OpenAI+TPUs; SK Hynix Q3; OpenAI epilepsy wrongful-death suit; Anthropic Mithril/pharma; Axiom finite simple groups Lean proof; Hex/Infisical/Onsemi-Ferric; Discord search; Anthropic GSA. Lightning: Timestral; MLflow/MCP Toolbox CVEs; Tailscale SSH; Qwen exfil. Hype or Legit: Goodfire neurons interpretable.</description>
+      <itunes:summary>Anthropic S-1 (training pause, 4 sandbox escapes); Genie 4; Oracle+OpenAI+TPUs; SK Hynix Q3; OpenAI epilepsy wrongful-death suit; Anthropic Mithril/pharma; Axiom finite simple groups Lean proof; Hex/Infisical/Onsemi-Ferric; Discord search; Anthropic GSA. Lightning: Timestral; MLflow/MCP Toolbox CVEs; Tailscale SSH; Qwen exfil. Hype or Legit: Goodfire neurons interpretable.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-28.mp3" length="10734956" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-28</guid>
+      <pubDate>Wed, 28 Oct 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1341</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Tuesday, October 27, 2026</title>
       <description>OpenAI AI proofs (ETH/Kakeya/Yang-Mills); Microsoft 60k buyouts/Proton re-interviews; Broadcom $63B SPV for Anthropic + Meta $95B equity raise; China STAR 50 -40%; Claude Georgia paywall data; Cohere Qwen3.8 exfil report; Intel-Classiq; Nvidia $2k agent fee/Accenture Claude cap; Cloudflare GLM KV leak; AGENTS.md hijack/Arrakis dormant agents. Lightning: Korea AI hacks; CadenceMaestro; Google CIPA ruling; data-center freight theft. Hype or Legit: Cadence 30%/5x.</description>
