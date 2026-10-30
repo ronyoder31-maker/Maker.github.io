@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 29 Oct 2026 05:15:55 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 05:13:33 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Friday, October 30, 2026</title>
+      <description>OpenAI four-layer monitoring; Mistral Large 4; PAN-OS AI exploit chain; EMBRACE coding-tool browsers; Nvidia/Nscale debt for Anthropic; CS enrollment + rehiring after AI layoffs; OpenAI Pro limits reversal; Tencent/Alibaba-DeepSeek; DOE-Constellation nuclear/Rosatom; Twilio. Lightning: KT Token Factory; AM Intelligence; ServiceNow CVE; Jassy shopping agents. Hype or Legit: Mistral Large 4 claims.</description>
+      <itunes:summary>OpenAI four-layer monitoring; Mistral Large 4; PAN-OS AI exploit chain; EMBRACE coding-tool browsers; Nvidia/Nscale debt for Anthropic; CS enrollment + rehiring after AI layoffs; OpenAI Pro limits reversal; Tencent/Alibaba-DeepSeek; DOE-Constellation nuclear/Rosatom; Twilio. Lightning: KT Token Factory; AM Intelligence; ServiceNow CVE; Jassy shopping agents. Hype or Legit: Mistral Large 4 claims.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-30.mp3" length="12940460" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-30</guid>
+      <pubDate>Fri, 30 Oct 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1617</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Thursday, October 29, 2026</title>
       <description>Gemini 4 Carbon; Anthropic unreleased Claude exploit chains; Cipher EPICS zero-days; Alphabet/Microsoft Q3 + OpenAI 10B revenue/ServiceNow; Samsung Q3; MacBook Pro touchscreen/Mac Studio 512GB; DOJ Nvidia-Hugging Face; Marvell-Lumentum; Anthropic analyst deference study. Lightning: FuriosaAI; Amazon devices cuts; Gemini 2020 election; MicroZig LLM ban; Sierra Club; xAI Southaven; Red Hat gateway CVE. Hype or Legit: Gemini 4 Carbon claims.</description>
