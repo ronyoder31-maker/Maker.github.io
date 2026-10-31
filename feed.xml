@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 05:13:33 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:14:12 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Saturday, October 31, 2026</title>
+      <description>AI sell-off/Nasdaq/$3T commitments/Amazon $80B loan/Reddit; OpenAI round cut/Blackstone Anthropic junk/SEC; Nvidia-Nscale; trojanized Claude Code extension/EMBRACE; VAPOR PANDA ARTEX/PAN-OS; Thrive-ADT; shared AI opt-out token/UK CMA Meta; Baseten $30B/Phonic/Powerlattice/&amp;Truth; LeCun JEPA/CMU unified training; AT&amp;T-Verizon layoffs/CS enrollment. Lightning: UBS agents; Canada-Cohere; OpenAI teen safety; ETSI deepfake. Hype or Legit: Cisco 98% legacy rewrite.</description>
+      <itunes:summary>AI sell-off/Nasdaq/$3T commitments/Amazon $80B loan/Reddit; OpenAI round cut/Blackstone Anthropic junk/SEC; Nvidia-Nscale; trojanized Claude Code extension/EMBRACE; VAPOR PANDA ARTEX/PAN-OS; Thrive-ADT; shared AI opt-out token/UK CMA Meta; Baseten $30B/Phonic/Powerlattice/&amp;Truth; LeCun JEPA/CMU unified training; AT&amp;T-Verizon layoffs/CS enrollment. Lightning: UBS agents; Canada-Cohere; OpenAI teen safety; ETSI deepfake. Hype or Legit: Cisco 98% legacy rewrite.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-31.mp3" length="14463212" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1807</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Friday, October 30, 2026</title>
       <description>OpenAI four-layer monitoring; Mistral Large 4; PAN-OS AI exploit chain; EMBRACE coding-tool browsers; Nvidia/Nscale debt for Anthropic; CS enrollment + rehiring after AI layoffs; OpenAI Pro limits reversal; Tencent/Alibaba-DeepSeek; DOE-Constellation nuclear/Rosatom; Twilio. Lightning: KT Token Factory; AM Intelligence; ServiceNow CVE; Jassy shopping agents. Hype or Legit: Mistral Large 4 claims.</description>
