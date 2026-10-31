@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Oct 2026 05:34:46 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 05:34:43 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Saturday, October 31, 2026</title>
+      <description>Claude Code extension SSH backdoor on Cursor Marketplace; Rapid-MLX 1.0; Ollama vs mlx-lm guide; GitLab CVE-2026-97229 KEV; Linux CVE-2026-98432 TCP UAF/MPTCP; PostgreSQL 19 delay. Tool: mlx-lm. Quick: Drupal Commerce CVE-2026-118539; Wine 11.21; Fedora 45 Nov 3; Ubuntu 27.04. Watch: distro kernel fixes, Fedora 45.</description>
+      <itunes:summary>Claude Code extension SSH backdoor on Cursor Marketplace; Rapid-MLX 1.0; Ollama vs mlx-lm guide; GitLab CVE-2026-97229 KEV; Linux CVE-2026-98432 TCP UAF/MPTCP; PostgreSQL 19 delay. Tool: mlx-lm. Quick: Drupal Commerce CVE-2026-118539; Wine 11.21; Fedora 45 Nov 3; Ubuntu 27.04. Watch: distro kernel fixes, Fedora 45.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-31.mp3" length="7956332" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>994</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Friday, October 30, 2026</title>
       <description>HF trust_remote_code crypto-miner campaign (31 repos); fake Solana starter kit vs AI agents; Fragnesia CVE-2026-46300 KEV chained w/ PHP2Shell; Crawl4AI/PraisonAI/pdf-reader-mcp advisories; llama.cpp rpc-server CVE-2026-119052 + OOB fixes. Tool: llama.cpp quick start. Quick: Ollama 0.40.13; Fedora 45 Nov 3; Linux 7.4 FAT32; AMD Loom 0.1. Watch: HF takedowns, Fedora 45, Kimi K3.1 weights Nov 4.</description>
