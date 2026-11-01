@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 31 Oct 2026 05:14:12 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 05:09:36 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Sunday, November 1, 2026</title>
+      <description>Apple-Alibaba Qwen/Ternus; OpenAI GPT-6 Rosalind; ChatGPT share-link flaw; VOLTA infostealer; Claude red-teams Anthropic monitor; Apple passes Nvidia; Altman-Samsung memory; Murata MLCC; xAI NAACP ruling; Hermantown/Victoria/Europe data centers; Microsoft-AFT school standard; NLA scraper pooling; AgiBot; OpenAI SDK. Lightning: Kimi K2 closure; Anthropic HK PhD flag; Copilot ballot brief; Qwen team; Grok Pokemon. Hype or Legit: Qwen team beats Fable 5.</description>
+      <itunes:summary>Apple-Alibaba Qwen/Ternus; OpenAI GPT-6 Rosalind; ChatGPT share-link flaw; VOLTA infostealer; Claude red-teams Anthropic monitor; Apple passes Nvidia; Altman-Samsung memory; Murata MLCC; xAI NAACP ruling; Hermantown/Victoria/Europe data centers; Microsoft-AFT school standard; NLA scraper pooling; AgiBot; OpenAI SDK. Lightning: Kimi K2 closure; Anthropic HK PhD flag; Copilot ballot brief; Qwen team; Grok Pokemon. Hype or Legit: Qwen team beats Fable 5.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-01.mp3" length="12713516" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-01</guid>
+      <pubDate>Sun, 01 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1589</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Saturday, October 31, 2026</title>
       <description>AI sell-off/Nasdaq/$3T commitments/Amazon $80B loan/Reddit; OpenAI round cut/Blackstone Anthropic junk/SEC; Nvidia-Nscale; trojanized Claude Code extension/EMBRACE; VAPOR PANDA ARTEX/PAN-OS; Thrive-ADT; shared AI opt-out token/UK CMA Meta; Baseten $30B/Phonic/Powerlattice/&amp;Truth; LeCun JEPA/CMU unified training; AT&amp;T-Verizon layoffs/CS enrollment. Lightning: UBS agents; Canada-Cohere; OpenAI teen safety; ETSI deepfake. Hype or Legit: Cisco 98% legacy rewrite.</description>
