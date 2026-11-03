@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 05:34:55 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 05:34:51 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Tuesday, November 3, 2026</title>
+      <description>MIT weight-space programming + edited Qwen3.5-0.8B; Kimi K3.1 Pro weights due Nov 4; Fedora 45/Asahi Remix 45; Ubuntu CVE-2026-98432 unfixed; Polyend Tracker CE firmware; Disc Image Studio. Tool: Video Studio Skill. Quick: Kimi game-dev plugins; Fedora WebKitGTK backports; Fedora Chromium update. Watch: Kimi K3.1 weights, Ubuntu kernel fix.</description>
+      <itunes:summary>MIT weight-space programming + edited Qwen3.5-0.8B; Kimi K3.1 Pro weights due Nov 4; Fedora 45/Asahi Remix 45; Ubuntu CVE-2026-98432 unfixed; Polyend Tracker CE firmware; Disc Image Studio. Tool: Video Studio Skill. Quick: Kimi game-dev plugins; Fedora WebKitGTK backports; Fedora Chromium update. Watch: Kimi K3.1 weights, Ubuntu kernel fix.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-03.mp3" length="6947756" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>868</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Monday, November 2, 2026</title>
       <description>LXD/MicroCloud CVE-2026-112816 (CVSS 10); Drex Max v1 (RAIL-M, fits 64GB); DeepSeek dsh-superagent; mlx-serve 26.11.1. Tool: mlx-serve. Quick: llama.cpp b12027; imagecodecs CVE-2026-120252; Apache MINA CVE-2026-118636; Ollama still 0.40.13. Watch: LXD stable rollout, mlx-serve plugins.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-10-28</guid>
       <pubDate>Wed, 28 Oct 2026 05:30:00 +0100</pubDate>
       <itunes:duration>919</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Tuesday, October 27, 2026</title>
-      <description>Cloudflare Workers AI GLM-5.3 KV-cache leak / SGLang 0.5.22 fix; Ollama 0.40.12-rc0 MLX DFlash2; MLX-LM Flint + MLX-VLM MiniMax M3.1 Flash (no 64GB fit); Linux 7.4 Apple M4 support; Pharo 14. Tool: mlx-audio. Quick: KMSCON 10.1; kwin-type; Mesa 27 Kraid; mlx-decision. Watch: Ollama 0.40.12 stable, DFlash2 Mac benchmarks, Kimi K3.1 weights Nov 4.</description>
-      <itunes:summary>Cloudflare Workers AI GLM-5.3 KV-cache leak / SGLang 0.5.22 fix; Ollama 0.40.12-rc0 MLX DFlash2; MLX-LM Flint + MLX-VLM MiniMax M3.1 Flash (no 64GB fit); Linux 7.4 Apple M4 support; Pharo 14. Tool: mlx-audio. Quick: KMSCON 10.1; kwin-type; Mesa 27 Kraid; mlx-decision. Watch: Ollama 0.40.12 stable, DFlash2 Mac benchmarks, Kimi K3.1 weights Nov 4.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-27.mp3" length="5870828" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-10-27</guid>
-      <pubDate>Tue, 27 Oct 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>733</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
