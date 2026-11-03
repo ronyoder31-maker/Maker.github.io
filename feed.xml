@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Nov 2026 05:11:58 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 05:11:15 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Tuesday, November 3, 2026</title>
+      <description>Anthropic amended S-1 (Q3 rev/commitments/RSI/valuation); Marvell-Lumentum; capex/Oracle raise; Apple Q4/memory; Palantir; NYT v Brave; Challenger cuts/Squarespace; WorkOS/NCSC; Hark $700M; weight-space programming. Lightning: LongCat-2.5; Mount Tai robots; Amazon GPU cancels; Salesforce-Cresta; Nvidia hands; Russia/Korea/Abu Dhabi. Hype or Legit: GPT-6 weight editing.</description>
+      <itunes:summary>Anthropic amended S-1 (Q3 rev/commitments/RSI/valuation); Marvell-Lumentum; capex/Oracle raise; Apple Q4/memory; Palantir; NYT v Brave; Challenger cuts/Squarespace; WorkOS/NCSC; Hark $700M; weight-space programming. Lightning: LongCat-2.5; Mount Tai robots; Amazon GPU cancels; Salesforce-Cresta; Nvidia hands; Russia/Korea/Abu Dhabi. Hype or Legit: GPT-6 weight editing.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-03.mp3" length="12819500" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-03</guid>
+      <pubDate>Tue, 03 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1602</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Monday, November 2, 2026</title>
       <description>SemiAnalysis GDPx benchmark; Cornell/Yale agents bypass spending caps; ChatGPT/Codex shared pool + device caps; OpenAI post-midterm speed limits; data center politics/governor races; Google space data centers; DeepSeek Super-agent/Vercel agent-desktop; Aramco-Humain/Korea chip exports/LG CNS; fake Mythos leak; Exin Claude mouse injection; Forum AI election chatbots; VOLTA/Vapor Panda. Lightning: Prefab UI CVE; ServiceNow-Sweep; Optimus; AI detectors. Hype or Legit: Exin AI brain injection.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-10-28</guid>
       <pubDate>Wed, 28 Oct 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1341</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Tuesday, October 27, 2026</title>
-      <description>OpenAI AI proofs (ETH/Kakeya/Yang-Mills); Microsoft 60k buyouts/Proton re-interviews; Broadcom $63B SPV for Anthropic + Meta $95B equity raise; China STAR 50 -40%; Claude Georgia paywall data; Cohere Qwen3.8 exfil report; Intel-Classiq; Nvidia $2k agent fee/Accenture Claude cap; Cloudflare GLM KV leak; AGENTS.md hijack/Arrakis dormant agents. Lightning: Korea AI hacks; CadenceMaestro; Google CIPA ruling; data-center freight theft. Hype or Legit: Cadence 30%/5x.</description>
-      <itunes:summary>OpenAI AI proofs (ETH/Kakeya/Yang-Mills); Microsoft 60k buyouts/Proton re-interviews; Broadcom $63B SPV for Anthropic + Meta $95B equity raise; China STAR 50 -40%; Claude Georgia paywall data; Cohere Qwen3.8 exfil report; Intel-Classiq; Nvidia $2k agent fee/Accenture Claude cap; Cloudflare GLM KV leak; AGENTS.md hijack/Arrakis dormant agents. Lightning: Korea AI hacks; CadenceMaestro; Google CIPA ruling; data-center freight theft. Hype or Legit: Cadence 30%/5x.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-27.mp3" length="13239212" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-10-27</guid>
-      <pubDate>Tue, 27 Oct 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1654</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
