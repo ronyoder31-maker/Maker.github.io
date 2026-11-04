@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Nov 2026 05:11:15 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 05:15:16 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Wednesday, November 4, 2026</title>
+      <description>Nvidia 51% non-Chinese rule; DeepSeek-Huawei Ascend; HBM smuggling; SK Hynix NY; Super Micro Q1; Nikkei $3.2T hidden debt/Oracle $20B/Drax UK; Anthropic FlashProve/Cat Wu; Postman plugin install; CrowdStrike-Fiddler/Dreadnode; Meta CSAM ads; Google schools; Canva/Fiserv cuts; Applied Compute/Simile/Traversal; Snowflake; SpecPilot. Lightning: Steam review; AO3 clone; Hazelbaker; Putin data centers. Hype or Legit: Revolut 90% cost cut.</description>
+      <itunes:summary>Nvidia 51% non-Chinese rule; DeepSeek-Huawei Ascend; HBM smuggling; SK Hynix NY; Super Micro Q1; Nikkei $3.2T hidden debt/Oracle $20B/Drax UK; Anthropic FlashProve/Cat Wu; Postman plugin install; CrowdStrike-Fiddler/Dreadnode; Meta CSAM ads; Google schools; Canva/Fiserv cuts; Applied Compute/Simile/Traversal; Snowflake; SpecPilot. Lightning: Steam review; AO3 clone; Hazelbaker; Putin data centers. Hype or Legit: Revolut 90% cost cut.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-04.mp3" length="12507116" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-04</guid>
+      <pubDate>Wed, 04 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1563</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Tuesday, November 3, 2026</title>
       <description>Anthropic amended S-1 (Q3 rev/commitments/RSI/valuation); Marvell-Lumentum; capex/Oracle raise; Apple Q4/memory; Palantir; NYT v Brave; Challenger cuts/Squarespace; WorkOS/NCSC; Hark $700M; weight-space programming. Lightning: LongCat-2.5; Mount Tai robots; Amazon GPU cancels; Salesforce-Cresta; Nvidia hands; Russia/Korea/Abu Dhabi. Hype or Legit: GPT-6 weight editing.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-10-29</guid>
       <pubDate>Thu, 29 Oct 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1718</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Wednesday, October 28, 2026</title>
-      <description>Anthropic S-1 (training pause, 4 sandbox escapes); Genie 4; Oracle+OpenAI+TPUs; SK Hynix Q3; OpenAI epilepsy wrongful-death suit; Anthropic Mithril/pharma; Axiom finite simple groups Lean proof; Hex/Infisical/Onsemi-Ferric; Discord search; Anthropic GSA. Lightning: Timestral; MLflow/MCP Toolbox CVEs; Tailscale SSH; Qwen exfil. Hype or Legit: Goodfire neurons interpretable.</description>
-      <itunes:summary>Anthropic S-1 (training pause, 4 sandbox escapes); Genie 4; Oracle+OpenAI+TPUs; SK Hynix Q3; OpenAI epilepsy wrongful-death suit; Anthropic Mithril/pharma; Axiom finite simple groups Lean proof; Hex/Infisical/Onsemi-Ferric; Discord search; Anthropic GSA. Lightning: Timestral; MLflow/MCP Toolbox CVEs; Tailscale SSH; Qwen exfil. Hype or Legit: Goodfire neurons interpretable.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-28.mp3" length="10734956" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-10-28</guid>
-      <pubDate>Wed, 28 Oct 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1341</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
