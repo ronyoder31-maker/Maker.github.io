@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 05:15:16 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:12:05 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Thursday, November 5, 2026</title>
+      <description>OpenAI 948 Linux exploits; Claude Xen flaws; election data-center selloff/Ohio/Texas; SpaceX 13GW + $40B debt; Google backstop TeraWulf-Anthropic; AMD-Taalas; earnings Qualcomm/Arm/AppLovin/Snap/Figma; Apple AI spend cap + iCloud scanning; Cat Wu/Anthropic-AP/watermark; Tencent Hy4/SWE-2 Flash; Isomorphic; Meta euro bond; CJEU Gemini; China agent pact. Lightning: StateBench; long-context paper; prompt adware; WoW AI addons. Hype or Legit: Pangram 99.96% detector.</description>
+      <itunes:summary>OpenAI 948 Linux exploits; Claude Xen flaws; election data-center selloff/Ohio/Texas; SpaceX 13GW + $40B debt; Google backstop TeraWulf-Anthropic; AMD-Taalas; earnings Qualcomm/Arm/AppLovin/Snap/Figma; Apple AI spend cap + iCloud scanning; Cat Wu/Anthropic-AP/watermark; Tencent Hy4/SWE-2 Flash; Isomorphic; Meta euro bond; CJEU Gemini; China agent pact. Lightning: StateBench; long-context paper; prompt adware; WoW AI addons. Hype or Legit: Pangram 99.96% detector.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-05.mp3" length="13081772" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1635</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Wednesday, November 4, 2026</title>
       <description>Nvidia 51% non-Chinese rule; DeepSeek-Huawei Ascend; HBM smuggling; SK Hynix NY; Super Micro Q1; Nikkei $3.2T hidden debt/Oracle $20B/Drax UK; Anthropic FlashProve/Cat Wu; Postman plugin install; CrowdStrike-Fiddler/Dreadnode; Meta CSAM ads; Google schools; Canva/Fiserv cuts; Applied Compute/Simile/Traversal; Snowflake; SpecPilot. Lightning: Steam review; AO3 clone; Hazelbaker; Putin data centers. Hype or Legit: Revolut 90% cost cut.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-10-30</guid>
       <pubDate>Fri, 30 Oct 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1617</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Thursday, October 29, 2026</title>
-      <description>Gemini 4 Carbon; Anthropic unreleased Claude exploit chains; Cipher EPICS zero-days; Alphabet/Microsoft Q3 + OpenAI 10B revenue/ServiceNow; Samsung Q3; MacBook Pro touchscreen/Mac Studio 512GB; DOJ Nvidia-Hugging Face; Marvell-Lumentum; Anthropic analyst deference study. Lightning: FuriosaAI; Amazon devices cuts; Gemini 2020 election; MicroZig LLM ban; Sierra Club; xAI Southaven; Red Hat gateway CVE. Hype or Legit: Gemini 4 Carbon claims.</description>
-      <itunes:summary>Gemini 4 Carbon; Anthropic unreleased Claude exploit chains; Cipher EPICS zero-days; Alphabet/Microsoft Q3 + OpenAI 10B revenue/ServiceNow; Samsung Q3; MacBook Pro touchscreen/Mac Studio 512GB; DOJ Nvidia-Hugging Face; Marvell-Lumentum; Anthropic analyst deference study. Lightning: FuriosaAI; Amazon devices cuts; Gemini 2020 election; MicroZig LLM ban; Sierra Club; xAI Southaven; Red Hat gateway CVE. Hype or Legit: Gemini 4 Carbon claims.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-29.mp3" length="13744364" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-10-29</guid>
-      <pubDate>Thu, 29 Oct 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1718</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
