@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 04 Nov 2026 05:34:21 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 05:37:05 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Thursday, November 5, 2026</title>
+      <description>OpenVox/Puppet RCE CVE-2026-115731; Rails ActiveStorage/ImageMagick; llama.cpp v0.9.0; PLaMo 3 Translate; Kimi K3.1 Pro weights (no 64GB fit); Ollama 0.40.14. Tool: Ollama. Quick: oMLX 0.7.4.dev1; MLX M3 Ultra PR; FreeRDP CVE-2026-121952. Watch: OpenVox exploitation, Kimi quants.</description>
+      <itunes:summary>OpenVox/Puppet RCE CVE-2026-115731; Rails ActiveStorage/ImageMagick; llama.cpp v0.9.0; PLaMo 3 Translate; Kimi K3.1 Pro weights (no 64GB fit); Ollama 0.40.14. Tool: Ollama. Quick: oMLX 0.7.4.dev1; MLX M3 Ultra PR; FreeRDP CVE-2026-121952. Watch: OpenVox exploitation, Kimi quants.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-05.mp3" length="5703788" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-05</guid>
+      <pubDate>Thu, 05 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>712</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Wednesday, November 4, 2026</title>
       <description>Postman auto-installs agent plugins (Claude Code/Codex); Kimi K3.1 Pro weights due (unverified); Hydrogen-1.0 MIT 753B; weight-space critique + Qwen3.8 27B local; Stringman robot; Kairos. Tool: LM Studio + llm CLI. Quick: Ollama 0.40.14; llama.cpp b12098; MLX distributed; Safari 27.3. Watch: Kimi weights, Postman fix.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-10-30</guid>
       <pubDate>Fri, 30 Oct 2026 05:30:00 +0100</pubDate>
       <itunes:duration>1069</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Thursday, October 29, 2026</title>
-      <description>FreeSWITCH CVE-2026-116779 (exploited, 1.11.3); llama.cpp v0.8.0 (/v1/realtime, /tts); LiteLLM Enterprise GHSA-w4c7 (critical); grpcio 1.84.1 eMudhra CAs; Ollama 0.40.13 LFM3 Linux/Windows. Tool: JetBrains ThinkRail. Quick: llama.cpp b11972 fixes; Ubuntu Core Desktop; D7VK 2.4 Glide; Hyprland 0.57. Watch: FreeSWITCH exploitation, Ollama 0.40.13, Kimi K3.1 weights Nov 4.</description>
-      <itunes:summary>FreeSWITCH CVE-2026-116779 (exploited, 1.11.3); llama.cpp v0.8.0 (/v1/realtime, /tts); LiteLLM Enterprise GHSA-w4c7 (critical); grpcio 1.84.1 eMudhra CAs; Ollama 0.40.13 LFM3 Linux/Windows. Tool: JetBrains ThinkRail. Quick: llama.cpp b11972 fixes; Ubuntu Core Desktop; D7VK 2.4 Glide; Hyprland 0.57. Watch: FreeSWITCH exploitation, Ollama 0.40.13, Kimi K3.1 weights Nov 4.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-29.mp3" length="7016876" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-10-29</guid>
-      <pubDate>Thu, 29 Oct 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>877</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
