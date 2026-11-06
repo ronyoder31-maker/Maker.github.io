@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Nov 2026 05:12:05 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 05:13:40 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Friday, November 6, 2026</title>
+      <description>GPT-6 Cyber/Firefox bugs + Astra safety underperformance; Nasdaq record rout/Asia; OpenAI NDAs/Google Wyoming; METR-Anthropic; Thinking Machines Inkling 2 Small + $5B; Gemini/ChatGPT lawsuits; JPMorgan-OpenAI/Perplexity Teammates/Sierra-Anon; Claude security center/Claude Code email; Meta terms pause; Huang-Megaspeed/SoftBank-ABB; Cloudflare/Dropbox-Tigris/Cyera/Sand.ai. Lightning: Gemini Omni 1.2; ERNIE 5.5; Claude vaults; Wiener. Hype or Legit: Perplexity 10k Teammates.</description>
+      <itunes:summary>GPT-6 Cyber/Firefox bugs + Astra safety underperformance; Nasdaq record rout/Asia; OpenAI NDAs/Google Wyoming; METR-Anthropic; Thinking Machines Inkling 2 Small + $5B; Gemini/ChatGPT lawsuits; JPMorgan-OpenAI/Perplexity Teammates/Sierra-Anon; Claude security center/Claude Code email; Meta terms pause; Huang-Megaspeed/SoftBank-ABB; Cloudflare/Dropbox-Tigris/Cyera/Sand.ai. Lightning: Gemini Omni 1.2; ERNIE 5.5; Claude vaults; Wiener. Hype or Legit: Perplexity 10k Teammates.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-06.mp3" length="12359084" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-06</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1544</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Thursday, November 5, 2026</title>
       <description>OpenAI 948 Linux exploits; Claude Xen flaws; election data-center selloff/Ohio/Texas; SpaceX 13GW + $40B debt; Google backstop TeraWulf-Anthropic; AMD-Taalas; earnings Qualcomm/Arm/AppLovin/Snap/Figma; Apple AI spend cap + iCloud scanning; Cat Wu/Anthropic-AP/watermark; Tencent Hy4/SWE-2 Flash; Isomorphic; Meta euro bond; CJEU Gemini; China agent pact. Lightning: StateBench; long-context paper; prompt adware; WoW AI addons. Hype or Legit: Pangram 99.96% detector.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-10-31</guid>
       <pubDate>Sat, 31 Oct 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1807</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Friday, October 30, 2026</title>
-      <description>OpenAI four-layer monitoring; Mistral Large 4; PAN-OS AI exploit chain; EMBRACE coding-tool browsers; Nvidia/Nscale debt for Anthropic; CS enrollment + rehiring after AI layoffs; OpenAI Pro limits reversal; Tencent/Alibaba-DeepSeek; DOE-Constellation nuclear/Rosatom; Twilio. Lightning: KT Token Factory; AM Intelligence; ServiceNow CVE; Jassy shopping agents. Hype or Legit: Mistral Large 4 claims.</description>
-      <itunes:summary>OpenAI four-layer monitoring; Mistral Large 4; PAN-OS AI exploit chain; EMBRACE coding-tool browsers; Nvidia/Nscale debt for Anthropic; CS enrollment + rehiring after AI layoffs; OpenAI Pro limits reversal; Tencent/Alibaba-DeepSeek; DOE-Constellation nuclear/Rosatom; Twilio. Lightning: KT Token Factory; AM Intelligence; ServiceNow CVE; Jassy shopping agents. Hype or Legit: Mistral Large 4 claims.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-10-30.mp3" length="12940460" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-10-30</guid>
-      <pubDate>Fri, 30 Oct 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1617</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
