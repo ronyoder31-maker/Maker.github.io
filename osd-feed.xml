@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Nov 2026 05:34:36 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 05:36:56 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Sunday, November 8, 2026</title>
+      <description>Asahi Linux 7.3 report (M3 GA, Thunderbolt, MIT-&gt;GPL); Rapid-MLX 1.0.2 (video w/ sound, idle unload); Cyera DEF CON 10 llama.cpp flaws; Nous Arete-27B. Tool: Cloudflare security-audit-skill. Quick: Ollama 0.40.15 MiMo V2.6; Coldframe honeypot; mlx-kquant; Google P3S. Watch: llama.cpp fixes, Rapid-MLX Pika memory.</description>
+      <itunes:summary>Asahi Linux 7.3 report (M3 GA, Thunderbolt, MIT-&gt;GPL); Rapid-MLX 1.0.2 (video w/ sound, idle unload); Cyera DEF CON 10 llama.cpp flaws; Nous Arete-27B. Tool: Cloudflare security-audit-skill. Quick: Ollama 0.40.15 MiMo V2.6; Coldframe honeypot; mlx-kquant; Google P3S. Watch: llama.cpp fixes, Rapid-MLX Pika memory.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-08.mp3" length="6810476" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-08</guid>
+      <pubDate>Sun, 08 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>851</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Friday, November 6, 2026</title>
       <description>OpenSSH musl 'sshole' (10.6p2); Locals; Kapitsa; Inkling 2 Small (weights next week); ERNIE 5.5 Flash Base; Linum P-JiT; LiteLLM CVE-2026-114612. Tool: Worktrunk. Quick: Claude Code UA email; Servo 0.7.0; Ollama 0.40.15/llama.cpp b12144. Watch: distro musl fixes, Inkling weights.</description>
@@ -66,28 +77,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-02</guid>
       <pubDate>Mon, 02 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>786</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Sunday, November 1, 2026</title>
-      <description>Mistral Large 4 open weights (no 64GB fit); Brotli CVE-2026-111497 + MSRC guide; Orkas; llama.cpp v0.8.0 / Llama App; Baidu Unlimited-OCR-2. Tool: Vorssaint. Quick: Lightpanda; PwnEscape CVE-2026-99999; Ollama 0.40.13; Fedora 45. Watch: PwnEscape distro fixes, Fedora 45.</description>
-      <itunes:summary>Mistral Large 4 open weights (no 64GB fit); Brotli CVE-2026-111497 + MSRC guide; Orkas; llama.cpp v0.8.0 / Llama App; Baidu Unlimited-OCR-2. Tool: Vorssaint. Quick: Lightpanda; PwnEscape CVE-2026-99999; Ollama 0.40.13; Fedora 45. Watch: PwnEscape distro fixes, Fedora 45.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-01.mp3" length="8325356" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-01</guid>
-      <pubDate>Sun, 01 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>1040</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Saturday, October 31, 2026</title>
-      <description>Claude Code extension SSH backdoor on Cursor Marketplace; Rapid-MLX 1.0; Ollama vs mlx-lm guide; GitLab CVE-2026-97229 KEV; Linux CVE-2026-98432 TCP UAF/MPTCP; PostgreSQL 19 delay. Tool: mlx-lm. Quick: Drupal Commerce CVE-2026-118539; Wine 11.21; Fedora 45 Nov 3; Ubuntu 27.04. Watch: distro kernel fixes, Fedora 45.</description>
-      <itunes:summary>Claude Code extension SSH backdoor on Cursor Marketplace; Rapid-MLX 1.0; Ollama vs mlx-lm guide; GitLab CVE-2026-97229 KEV; Linux CVE-2026-98432 TCP UAF/MPTCP; PostgreSQL 19 delay. Tool: mlx-lm. Quick: Drupal Commerce CVE-2026-118539; Wine 11.21; Fedora 45 Nov 3; Ubuntu 27.04. Watch: distro kernel fixes, Fedora 45.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-10-31.mp3" length="7956332" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-10-31</guid>
-      <pubDate>Sat, 31 Oct 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>994</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
