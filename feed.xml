@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:11:58 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:14:12 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Monday, November 9, 2026</title>
+      <description>Huang affair/Nvidia board probe/Rubio memo/Trump; Anthropic $3.4B OnePWR generators + $300B AI stock supply; chip imports $1T pace; Anthropic enterprise data notice; professional services +70K jobs; DeepSeek Harness 1.54M DAU; Tencent Yao bio-risk; Apple agentic Siri; Amazon Fauna; AI auditors false alarms; CAISSI/DOJ task force; Inner Mongolia. Lightning: Wehner-Fireworks; Sequoia Botha; Cognition Silicon; Theseus; Truthout schools. Hype or Legit: AI killing white-collar jobs vs jobs report.</description>
+      <itunes:summary>Huang affair/Nvidia board probe/Rubio memo/Trump; Anthropic $3.4B OnePWR generators + $300B AI stock supply; chip imports $1T pace; Anthropic enterprise data notice; professional services +70K jobs; DeepSeek Harness 1.54M DAU; Tencent Yao bio-risk; Apple agentic Siri; Amazon Fauna; AI auditors false alarms; CAISSI/DOJ task force; Inner Mongolia. Lightning: Wehner-Fireworks; Sequoia Botha; Cognition Silicon; Theseus; Truthout schools. Hype or Legit: AI killing white-collar jobs vs jobs report.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-09.mp3" length="13771628" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1721</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Sunday, November 8, 2026</title>
       <description>Claude Code don't-ask-again secrets leak (Apiiro); DeepMind 1024-bit RSA; ETH disproof/Aaronson-Ambainis; Microchip lead times; Deutsche/Texas/SE Asia data centers; NYT H200 empty offices; MSR AI Frontiers closes; Axon-Skydio; Public First PAC; Anthropic agent memory dreaming; ARTEX agents. Lightning: sshole; Suno suits; Claude deleted notes; Nous Arete. Hype or Legit: AI math proofs</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">byte-club-2026-11-03</guid>
       <pubDate>Tue, 03 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1602</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Monday, November 2, 2026</title>
-      <description>SemiAnalysis GDPx benchmark; Cornell/Yale agents bypass spending caps; ChatGPT/Codex shared pool + device caps; OpenAI post-midterm speed limits; data center politics/governor races; Google space data centers; DeepSeek Super-agent/Vercel agent-desktop; Aramco-Humain/Korea chip exports/LG CNS; fake Mythos leak; Exin Claude mouse injection; Forum AI election chatbots; VOLTA/Vapor Panda. Lightning: Prefab UI CVE; ServiceNow-Sweep; Optimus; AI detectors. Hype or Legit: Exin AI brain injection.</description>
-      <itunes:summary>SemiAnalysis GDPx benchmark; Cornell/Yale agents bypass spending caps; ChatGPT/Codex shared pool + device caps; OpenAI post-midterm speed limits; data center politics/governor races; Google space data centers; DeepSeek Super-agent/Vercel agent-desktop; Aramco-Humain/Korea chip exports/LG CNS; fake Mythos leak; Exin Claude mouse injection; Forum AI election chatbots; VOLTA/Vapor Panda. Lightning: Prefab UI CVE; ServiceNow-Sweep; Optimus; AI detectors. Hype or Legit: Exin AI brain injection.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-02.mp3" length="12658220" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-02</guid>
-      <pubDate>Mon, 02 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1582</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
