@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 08 Nov 2026 05:36:56 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 05:36:10 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Monday, November 9, 2026</title>
+      <description>Apple MLX+RDMA Mac Studio cluster (Muse Spark Open); mlx-dspark 0.20.4; llama.cpp rpc-server CVE-2026-118375/119052; Penpot 2.18.0 critical; imgproxy ICO CVEs (4.0.17); Vim 9.2.1309. Tool: mlx-dspark. Quick: uutils PoC; Hickory DNS 0.26.2; llama.cpp moe-cache-cpu-share. Watch: imgproxy notes, Apple post details.</description>
+      <itunes:summary>Apple MLX+RDMA Mac Studio cluster (Muse Spark Open); mlx-dspark 0.20.4; llama.cpp rpc-server CVE-2026-118375/119052; Penpot 2.18.0 critical; imgproxy ICO CVEs (4.0.17); Vim 9.2.1309. Tool: mlx-dspark. Quick: uutils PoC; Hickory DNS 0.26.2; llama.cpp moe-cache-cpu-share. Watch: imgproxy notes, Apple post details.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-09.mp3" length="8369516" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-09</guid>
+      <pubDate>Mon, 09 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>1046</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Sunday, November 8, 2026</title>
       <description>Asahi Linux 7.3 report (M3 GA, Thunderbolt, MIT-&gt;GPL); Rapid-MLX 1.0.2 (video w/ sound, idle unload); Cyera DEF CON 10 llama.cpp flaws; Nous Arete-27B. Tool: Cloudflare security-audit-skill. Quick: Ollama 0.40.15 MiMo V2.6; Coldframe honeypot; mlx-kquant; Google P3S. Watch: llama.cpp fixes, Rapid-MLX Pika memory.</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-03</guid>
       <pubDate>Tue, 03 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>868</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Monday, November 2, 2026</title>
-      <description>LXD/MicroCloud CVE-2026-112816 (CVSS 10); Drex Max v1 (RAIL-M, fits 64GB); DeepSeek dsh-superagent; mlx-serve 26.11.1. Tool: mlx-serve. Quick: llama.cpp b12027; imagecodecs CVE-2026-120252; Apache MINA CVE-2026-118636; Ollama still 0.40.13. Watch: LXD stable rollout, mlx-serve plugins.</description>
-      <itunes:summary>LXD/MicroCloud CVE-2026-112816 (CVSS 10); Drex Max v1 (RAIL-M, fits 64GB); DeepSeek dsh-superagent; mlx-serve 26.11.1. Tool: mlx-serve. Quick: llama.cpp b12027; imagecodecs CVE-2026-120252; Apache MINA CVE-2026-118636; Ollama still 0.40.13. Watch: LXD stable rollout, mlx-serve plugins.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-02.mp3" length="6294380" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-02</guid>
-      <pubDate>Mon, 02 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>786</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
