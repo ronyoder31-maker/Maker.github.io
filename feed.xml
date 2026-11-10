@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:14:12 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:15:16 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Tuesday, November 10, 2026</title>
+      <description>Anthropic $69.3B IPO filing; Fable/Mythos 5.2; Operation Snowball DeepSeek agent/Cisco BroadWorks; Fireworks 2nd breach; Google TPU 8tx/8i Max; Apple Intelligence Usage Packs; SpaceX Starbase $24B; Nvidia Huang fallout/governance; Gemini human review; Coframe/Spacefast/DeepX/PhysicsWallah/CPU-ARC. Lightning: Qantas-Accenture; Vanta-Pillar; GR00T 2; Atlas wheels; Meta Muse Ember. Hype or Legit: Fermat formalization by 1000 agents.</description>
+      <itunes:summary>Anthropic $69.3B IPO filing; Fable/Mythos 5.2; Operation Snowball DeepSeek agent/Cisco BroadWorks; Fireworks 2nd breach; Google TPU 8tx/8i Max; Apple Intelligence Usage Packs; SpaceX Starbase $24B; Nvidia Huang fallout/governance; Gemini human review; Coframe/Spacefast/DeepX/PhysicsWallah/CPU-ARC. Lightning: Qantas-Accenture; Vanta-Pillar; GR00T 2; Atlas wheels; Meta Muse Ember. Hype or Legit: Fermat formalization by 1000 agents.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-10.mp3" length="13980524" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1747</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Monday, November 9, 2026</title>
       <description>Huang affair/Nvidia board probe/Rubio memo/Trump; Anthropic $3.4B OnePWR generators + $300B AI stock supply; chip imports $1T pace; Anthropic enterprise data notice; professional services +70K jobs; DeepSeek Harness 1.54M DAU; Tencent Yao bio-risk; Apple agentic Siri; Amazon Fauna; AI auditors false alarms; CAISSI/DOJ task force; Inner Mongolia. Lightning: Wehner-Fireworks; Sequoia Botha; Cognition Silicon; Theseus; Truthout schools. Hype or Legit: AI killing white-collar jobs vs jobs report.</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">byte-club-2026-11-04</guid>
       <pubDate>Wed, 04 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1563</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Tuesday, November 3, 2026</title>
-      <description>Anthropic amended S-1 (Q3 rev/commitments/RSI/valuation); Marvell-Lumentum; capex/Oracle raise; Apple Q4/memory; Palantir; NYT v Brave; Challenger cuts/Squarespace; WorkOS/NCSC; Hark $700M; weight-space programming. Lightning: LongCat-2.5; Mount Tai robots; Amazon GPU cancels; Salesforce-Cresta; Nvidia hands; Russia/Korea/Abu Dhabi. Hype or Legit: GPT-6 weight editing.</description>
-      <itunes:summary>Anthropic amended S-1 (Q3 rev/commitments/RSI/valuation); Marvell-Lumentum; capex/Oracle raise; Apple Q4/memory; Palantir; NYT v Brave; Challenger cuts/Squarespace; WorkOS/NCSC; Hark $700M; weight-space programming. Lightning: LongCat-2.5; Mount Tai robots; Amazon GPU cancels; Salesforce-Cresta; Nvidia hands; Russia/Korea/Abu Dhabi. Hype or Legit: GPT-6 weight editing.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-03.mp3" length="12819500" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-03</guid>
-      <pubDate>Tue, 03 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1602</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
