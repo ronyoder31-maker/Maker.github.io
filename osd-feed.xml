@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Nov 2026 05:36:10 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 05:34:05 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Tuesday, November 10, 2026</title>
+      <description>Ripple-65B Preview (Apache 2.0); Ollama 0.40.16 (Qwen3.8 Flash Next -27GiB on Apple silicon); Expo Exact; Meta Muse Ember (closed); Darling AI policy; Firefox 160. Tool: Ollama. Quick: Mesa 26.3; llama.cpp b12198/9; Linux 7.4-rc2; Zlib 1.4. Watch: Ripple independent tests.</description>
+      <itunes:summary>Ripple-65B Preview (Apache 2.0); Ollama 0.40.16 (Qwen3.8 Flash Next -27GiB on Apple silicon); Expo Exact; Meta Muse Ember (closed); Darling AI policy; Firefox 160. Tool: Ollama. Quick: Mesa 26.3; llama.cpp b12198/9; Linux 7.4-rc2; Zlib 1.4. Watch: Ripple independent tests.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-10.mp3" length="6558764" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-10</guid>
+      <pubDate>Tue, 10 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>819</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Monday, November 9, 2026</title>
       <description>Apple MLX+RDMA Mac Studio cluster (Muse Spark Open); mlx-dspark 0.20.4; llama.cpp rpc-server CVE-2026-118375/119052; Penpot 2.18.0 critical; imgproxy ICO CVEs (4.0.17); Vim 9.2.1309. Tool: mlx-dspark. Quick: uutils PoC; Hickory DNS 0.26.2; llama.cpp moe-cache-cpu-share. Watch: imgproxy notes, Apple post details.</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-04</guid>
       <pubDate>Wed, 04 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>949</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Tuesday, November 3, 2026</title>
-      <description>MIT weight-space programming + edited Qwen3.5-0.8B; Kimi K3.1 Pro weights due Nov 4; Fedora 45/Asahi Remix 45; Ubuntu CVE-2026-98432 unfixed; Polyend Tracker CE firmware; Disc Image Studio. Tool: Video Studio Skill. Quick: Kimi game-dev plugins; Fedora WebKitGTK backports; Fedora Chromium update. Watch: Kimi K3.1 weights, Ubuntu kernel fix.</description>
-      <itunes:summary>MIT weight-space programming + edited Qwen3.5-0.8B; Kimi K3.1 Pro weights due Nov 4; Fedora 45/Asahi Remix 45; Ubuntu CVE-2026-98432 unfixed; Polyend Tracker CE firmware; Disc Image Studio. Tool: Video Studio Skill. Quick: Kimi game-dev plugins; Fedora WebKitGTK backports; Fedora Chromium update. Watch: Kimi K3.1 weights, Ubuntu kernel fix.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-03.mp3" length="6947756" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-03</guid>
-      <pubDate>Tue, 03 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>868</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
