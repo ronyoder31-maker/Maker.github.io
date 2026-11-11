@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Nov 2026 05:15:16 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:14:28 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Wednesday, November 11, 2026</title>
+      <description>Gemini 4 Carbon; Anthropic IPO range/Lambda; Claude Sheets/Meetings/Whiteboards + IBM-Microsoft Imagine; DeepMind AlphaProof Code/Signal; Railway breach/Notion-Fireworks; OpenAI Businesses; OpenAI Control Room/Australia regulator; AMD Venice; Meituan LongCat-2.5; Stanford AI100; Nvidia Wachtell/Megaspeed. Lightning: Apple Harbor; GPUStack KEV; ChatGPT voice retire; Adobe MCP; Synaptics. Hype or Legit: Glasswing accuracy</description>
+      <itunes:summary>Gemini 4 Carbon; Anthropic IPO range/Lambda; Claude Sheets/Meetings/Whiteboards + IBM-Microsoft Imagine; DeepMind AlphaProof Code/Signal; Railway breach/Notion-Fireworks; OpenAI Businesses; OpenAI Control Room/Australia regulator; AMD Venice; Meituan LongCat-2.5; Stanford AI100; Nvidia Wachtell/Megaspeed. Lightning: Apple Harbor; GPUStack KEV; ChatGPT voice retire; Adobe MCP; Synaptics. Hype or Legit: Glasswing accuracy</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-11.mp3" length="11527148" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-11</guid>
+      <pubDate>Wed, 11 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1440</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Tuesday, November 10, 2026</title>
       <description>Anthropic $69.3B IPO filing; Fable/Mythos 5.2; Operation Snowball DeepSeek agent/Cisco BroadWorks; Fireworks 2nd breach; Google TPU 8tx/8i Max; Apple Intelligence Usage Packs; SpaceX Starbase $24B; Nvidia Huang fallout/governance; Gemini human review; Coframe/Spacefast/DeepX/PhysicsWallah/CPU-ARC. Lightning: Qantas-Accenture; Vanta-Pillar; GR00T 2; Atlas wheels; Meta Muse Ember. Hype or Legit: Fermat formalization by 1000 agents.</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">byte-club-2026-11-05</guid>
       <pubDate>Thu, 05 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1635</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Wednesday, November 4, 2026</title>
-      <description>Nvidia 51% non-Chinese rule; DeepSeek-Huawei Ascend; HBM smuggling; SK Hynix NY; Super Micro Q1; Nikkei $3.2T hidden debt/Oracle $20B/Drax UK; Anthropic FlashProve/Cat Wu; Postman plugin install; CrowdStrike-Fiddler/Dreadnode; Meta CSAM ads; Google schools; Canva/Fiserv cuts; Applied Compute/Simile/Traversal; Snowflake; SpecPilot. Lightning: Steam review; AO3 clone; Hazelbaker; Putin data centers. Hype or Legit: Revolut 90% cost cut.</description>
-      <itunes:summary>Nvidia 51% non-Chinese rule; DeepSeek-Huawei Ascend; HBM smuggling; SK Hynix NY; Super Micro Q1; Nikkei $3.2T hidden debt/Oracle $20B/Drax UK; Anthropic FlashProve/Cat Wu; Postman plugin install; CrowdStrike-Fiddler/Dreadnode; Meta CSAM ads; Google schools; Canva/Fiserv cuts; Applied Compute/Simile/Traversal; Snowflake; SpecPilot. Lightning: Steam review; AO3 clone; Hazelbaker; Putin data centers. Hype or Legit: Revolut 90% cost cut.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-04.mp3" length="12507116" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-04</guid>
-      <pubDate>Wed, 04 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1563</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
