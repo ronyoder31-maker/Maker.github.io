@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 05:14:28 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:11:46 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Thursday, November 12, 2026</title>
+      <description>Nvidia board/Huang ouster + Megaspeed/Warren/Bessent; Anthropic China ban + OpenAI Nov 20; Silent Lynx Hermes agent; AlphaGenome 2 + Gemini Robotics 2.5 + NTT; Spotify AI remix; United blocks agents; funding (Mercor, Path, Blue J, Applied Intuition, CoreWeave loan); Grok Build leak/GPUStack KEV; MS Lazarus; Stanford AI100. Lightning: IBM Nighthawk r3; Gemini Decisions API; Qwen4-Max; England OfS. Hype or Legit: Glasswing accuracy</description>
+      <itunes:summary>Nvidia board/Huang ouster + Megaspeed/Warren/Bessent; Anthropic China ban + OpenAI Nov 20; Silent Lynx Hermes agent; AlphaGenome 2 + Gemini Robotics 2.5 + NTT; Spotify AI remix; United blocks agents; funding (Mercor, Path, Blue J, Applied Intuition, CoreWeave loan); Grok Build leak/GPUStack KEV; MS Lazarus; Stanford AI100. Lightning: IBM Nighthawk r3; Gemini Decisions API; Qwen4-Max; England OfS. Hype or Legit: Glasswing accuracy</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-12.mp3" length="12389036" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1548</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Wednesday, November 11, 2026</title>
       <description>Gemini 4 Carbon; Anthropic IPO range/Lambda; Claude Sheets/Meetings/Whiteboards + IBM-Microsoft Imagine; DeepMind AlphaProof Code/Signal; Railway breach/Notion-Fireworks; OpenAI Businesses; OpenAI Control Room/Australia regulator; AMD Venice; Meituan LongCat-2.5; Stanford AI100; Nvidia Wachtell/Megaspeed. Lightning: Apple Harbor; GPUStack KEV; ChatGPT voice retire; Adobe MCP; Synaptics. Hype or Legit: Glasswing accuracy</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">byte-club-2026-11-06</guid>
       <pubDate>Fri, 06 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1544</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Thursday, November 5, 2026</title>
-      <description>OpenAI 948 Linux exploits; Claude Xen flaws; election data-center selloff/Ohio/Texas; SpaceX 13GW + $40B debt; Google backstop TeraWulf-Anthropic; AMD-Taalas; earnings Qualcomm/Arm/AppLovin/Snap/Figma; Apple AI spend cap + iCloud scanning; Cat Wu/Anthropic-AP/watermark; Tencent Hy4/SWE-2 Flash; Isomorphic; Meta euro bond; CJEU Gemini; China agent pact. Lightning: StateBench; long-context paper; prompt adware; WoW AI addons. Hype or Legit: Pangram 99.96% detector.</description>
-      <itunes:summary>OpenAI 948 Linux exploits; Claude Xen flaws; election data-center selloff/Ohio/Texas; SpaceX 13GW + $40B debt; Google backstop TeraWulf-Anthropic; AMD-Taalas; earnings Qualcomm/Arm/AppLovin/Snap/Figma; Apple AI spend cap + iCloud scanning; Cat Wu/Anthropic-AP/watermark; Tencent Hy4/SWE-2 Flash; Isomorphic; Meta euro bond; CJEU Gemini; China agent pact. Lightning: StateBench; long-context paper; prompt adware; WoW AI addons. Hype or Legit: Pangram 99.96% detector.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-05.mp3" length="13081772" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-05</guid>
-      <pubDate>Thu, 05 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1635</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
