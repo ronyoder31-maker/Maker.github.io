@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Nov 2026 05:34:13 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:36:44 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Thursday, November 12, 2026</title>
+      <description>Apache httpd 2.4.71 CVE-2026-119618; MACaQ quantizer (MACaQ-R GGUF); Stela; AWS Emulator; X.Org 8 CVEs. Tool: Yogurt. Quick: Ollama 0.40.17-rc0 MLX concurrency; Stoakes AI patch flood; Intel microcode 20261110. Watch: Apache exploit/Homebrew, Ollama stable, MACaQ-R Mac tests.</description>
+      <itunes:summary>Apache httpd 2.4.71 CVE-2026-119618; MACaQ quantizer (MACaQ-R GGUF); Stela; AWS Emulator; X.Org 8 CVEs. Tool: Yogurt. Quick: Ollama 0.40.17-rc0 MLX concurrency; Stoakes AI patch flood; Intel microcode 20261110. Watch: Apache exploit/Homebrew, Ollama stable, MACaQ-R Mac tests.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-12.mp3" length="6233900" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-12</guid>
+      <pubDate>Thu, 12 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>779</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Wednesday, November 11, 2026</title>
       <description>Git 2.56.1 six CVEs; GPUStack CVE-2026-102895 KEV; Xen Orchestra VSA-2026-062; Ollama 0.40.17-rc0 MLX concurrency; llama.cpp b12259 (Kimi K3.1 vision, TTS); Blender 5.3. Tool: Blender. Quick: Firefox 160 CVEs; Synaptics DisplayLink; kernels 7.3.4; Procexp-Mac. Watch: Ollama 0.40.17 stable, Xen Orchestra CVE.</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-06</guid>
       <pubDate>Fri, 06 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>952</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Thursday, November 5, 2026</title>
-      <description>OpenVox/Puppet RCE CVE-2026-115731; Rails ActiveStorage/ImageMagick; llama.cpp v0.9.0; PLaMo 3 Translate; Kimi K3.1 Pro weights (no 64GB fit); Ollama 0.40.14. Tool: Ollama. Quick: oMLX 0.7.4.dev1; MLX M3 Ultra PR; FreeRDP CVE-2026-121952. Watch: OpenVox exploitation, Kimi quants.</description>
-      <itunes:summary>OpenVox/Puppet RCE CVE-2026-115731; Rails ActiveStorage/ImageMagick; llama.cpp v0.9.0; PLaMo 3 Translate; Kimi K3.1 Pro weights (no 64GB fit); Ollama 0.40.14. Tool: Ollama. Quick: oMLX 0.7.4.dev1; MLX M3 Ultra PR; FreeRDP CVE-2026-121952. Watch: OpenVox exploitation, Kimi quants.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-05.mp3" length="5703788" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-05</guid>
-      <pubDate>Thu, 05 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>712</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
