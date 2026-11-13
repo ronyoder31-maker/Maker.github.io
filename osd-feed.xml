@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Nov 2026 05:36:44 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 05:34:17 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Friday, November 13, 2026</title>
+      <description>llama.cpp server hardening (ZDI UAF); Mac runtimes benchmark (Ollama/LM Studio/mlx-lm, M4 24GB); Rust 1.100; VulnCheck Glasswing/curl. Tool: Zellij 0.46. Quick: Polo 1.0; C++26 ISO; Git LLM vote; curl 30. Watch: llama.cpp tag w/ fixes, Ollama 0.40.17 stable.</description>
+      <itunes:summary>llama.cpp server hardening (ZDI UAF); Mac runtimes benchmark (Ollama/LM Studio/mlx-lm, M4 24GB); Rust 1.100; VulnCheck Glasswing/curl. Tool: Zellij 0.46. Quick: Polo 1.0; C++26 ISO; Git LLM vote; curl 30. Watch: llama.cpp tag w/ fixes, Ollama 0.40.17 stable.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-13.mp3" length="6014636" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-13</guid>
+      <pubDate>Fri, 13 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>751</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Thursday, November 12, 2026</title>
       <description>Apache httpd 2.4.71 CVE-2026-119618; MACaQ quantizer (MACaQ-R GGUF); Stela; AWS Emulator; X.Org 8 CVEs. Tool: Yogurt. Quick: Ollama 0.40.17-rc0 MLX concurrency; Stoakes AI patch flood; Intel microcode 20261110. Watch: Apache exploit/Homebrew, Ollama stable, MACaQ-R Mac tests.</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-08</guid>
       <pubDate>Sun, 08 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>851</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Friday, November 6, 2026</title>
-      <description>OpenSSH musl 'sshole' (10.6p2); Locals; Kapitsa; Inkling 2 Small (weights next week); ERNIE 5.5 Flash Base; Linum P-JiT; LiteLLM CVE-2026-114612. Tool: Worktrunk. Quick: Claude Code UA email; Servo 0.7.0; Ollama 0.40.15/llama.cpp b12144. Watch: distro musl fixes, Inkling weights.</description>
-      <itunes:summary>OpenSSH musl 'sshole' (10.6p2); Locals; Kapitsa; Inkling 2 Small (weights next week); ERNIE 5.5 Flash Base; Linum P-JiT; LiteLLM CVE-2026-114612. Tool: Worktrunk. Quick: Claude Code UA email; Servo 0.7.0; Ollama 0.40.15/llama.cpp b12144. Watch: distro musl fixes, Inkling weights.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-06.mp3" length="7618796" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-06</guid>
-      <pubDate>Fri, 06 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>952</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
