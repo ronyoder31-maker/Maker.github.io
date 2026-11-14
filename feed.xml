@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Nov 2026 05:15:32 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 05:14:16 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Saturday, November 14, 2026</title>
+      <description>FAA ground stop/SMART AI; Nvidia Haas approach/Senate/$500B financing/startup funding; ChatGPT Wallet; Amazon World Product Graph; Tesla Cybercab orders; LangChain/Kindo/Mirendil funding; Apple HomeView; OpenAI robotics team disbanded/ASUS Gallop; Moonshot IPO; Inkling 2 Small; Anthropic self-hosted agents; OpenAI Daybreak. Lightning: HappyShrimp; Ontario OpenAI suit; Alsup ClaimsHero; WH AI task force; Meta Takes. Hype or Legit: IBM Granite LLMON injection</description>
+      <itunes:summary>FAA ground stop/SMART AI; Nvidia Haas approach/Senate/$500B financing/startup funding; ChatGPT Wallet; Amazon World Product Graph; Tesla Cybercab orders; LangChain/Kindo/Mirendil funding; Apple HomeView; OpenAI robotics team disbanded/ASUS Gallop; Moonshot IPO; Inkling 2 Small; Anthropic self-hosted agents; OpenAI Daybreak. Lightning: HappyShrimp; Ontario OpenAI suit; Alsup ClaimsHero; WH AI task force; Meta Takes. Hype or Legit: IBM Granite LLMON injection</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-14.mp3" length="12533228" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1566</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Friday, November 13, 2026</title>
       <description>Huang resigns/Kress interim/Jones chair + Senate/DOJ walkback/financing; Anthropic S-1 RSP threshold; Chinese models Blackwell fingerprints; Gemini 4 Hydrogen; nonprofits sue labs; FBI FaceStealer/AntiFox; Edge0 145B; funding (Agile Robots, Norwest, Nebuly, Hatz, Luminal); Economist crash/Cisco; Chicago schools. Lightning: ByteDance buyback; M365 outage; Apple AI app review; Inner Mongolia. Hype or Legit: Edge0 laptop claim</description>
