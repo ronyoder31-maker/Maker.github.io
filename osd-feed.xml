@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Nov 2026 05:36:20 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 05:35:52 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Sunday, November 15, 2026</title>
+      <description>Project Zero Full 90/60/30 disclosure policy; Haru-4B (MLX app); deepseek-v3-jax; Apple M5 Linux 7.5; Chrome modern-web-guidance; Redox OS no-LLM policy. Tool: Plannotator. Quick: alibaba open-code-review; chrome-devtools-mcp; Plasma 6.9; FreeBSD 15.2 B2. Watch: Ollama 0.40.17 stable, Haru Mac reports.</description>
+      <itunes:summary>Project Zero Full 90/60/30 disclosure policy; Haru-4B (MLX app); deepseek-v3-jax; Apple M5 Linux 7.5; Chrome modern-web-guidance; Redox OS no-LLM policy. Tool: Plannotator. Quick: alibaba open-code-review; chrome-devtools-mcp; Plasma 6.9; FreeBSD 15.2 B2. Watch: Ollama 0.40.17 stable, Haru Mac reports.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-15.mp3" length="8085356" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-15</guid>
+      <pubDate>Sun, 15 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>1010</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Saturday, November 14, 2026</title>
       <description>llama.cpp/ggml v1.0.0; Qwen3.8-27B Unsloth Dynamic 3.1 (64GB fit); Ollama 0.40.17-rc0 MLX concurrency; PostgreSQL 52 CVEs; Cloudflare Kitesurf; VulnCheck Glasswing. Tool: Unsloth Desktop. Quick: Wine 11.22; XRAID; AMD HRX Loom; KDE Frameworks 6.32. Watch: Ollama 0.40.17 stable, Homebrew llama.cpp 1.0.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-09</guid>
       <pubDate>Mon, 09 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>1046</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Sunday, November 8, 2026</title>
-      <description>Asahi Linux 7.3 report (M3 GA, Thunderbolt, MIT-&gt;GPL); Rapid-MLX 1.0.2 (video w/ sound, idle unload); Cyera DEF CON 10 llama.cpp flaws; Nous Arete-27B. Tool: Cloudflare security-audit-skill. Quick: Ollama 0.40.15 MiMo V2.6; Coldframe honeypot; mlx-kquant; Google P3S. Watch: llama.cpp fixes, Rapid-MLX Pika memory.</description>
-      <itunes:summary>Asahi Linux 7.3 report (M3 GA, Thunderbolt, MIT-&gt;GPL); Rapid-MLX 1.0.2 (video w/ sound, idle unload); Cyera DEF CON 10 llama.cpp flaws; Nous Arete-27B. Tool: Cloudflare security-audit-skill. Quick: Ollama 0.40.15 MiMo V2.6; Coldframe honeypot; mlx-kquant; Google P3S. Watch: llama.cpp fixes, Rapid-MLX Pika memory.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-08.mp3" length="6810476" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-08</guid>
-      <pubDate>Sun, 08 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>851</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
