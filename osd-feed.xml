@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:35:52 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:34:33 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Monday, November 16, 2026</title>
+      <description>NoisyTCP Linux CVE-2026-99288; Gitea 28.4.0 CVE-2026-123006; Inkling 2 in llama.cpp (172GB, no fit); Bielik 11B v3.1; Harbor rumor. Tool: Llama app. Quick: NLTK 3.10.4; Seafile SeaDoc; Echo 4.16.5; Muse Spark Open. Watch: llama.cpp tag w/ Inkling fixes, Ollama 0.40.17 stable, Harbor.</description>
+      <itunes:summary>NoisyTCP Linux CVE-2026-99288; Gitea 28.4.0 CVE-2026-123006; Inkling 2 in llama.cpp (172GB, no fit); Bielik 11B v3.1; Harbor rumor. Tool: Llama app. Quick: NLTK 3.10.4; Seafile SeaDoc; Echo 4.16.5; Muse Spark Open. Watch: llama.cpp tag w/ Inkling fixes, Ollama 0.40.17 stable, Harbor.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-16.mp3" length="6908972" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>863</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Sunday, November 15, 2026</title>
       <description>Project Zero Full 90/60/30 disclosure policy; Haru-4B (MLX app); deepseek-v3-jax; Apple M5 Linux 7.5; Chrome modern-web-guidance; Redox OS no-LLM policy. Tool: Plannotator. Quick: alibaba open-code-review; chrome-devtools-mcp; Plasma 6.9; FreeBSD 15.2 B2. Watch: Ollama 0.40.17 stable, Haru Mac reports.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-10</guid>
       <pubDate>Tue, 10 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>819</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Monday, November 9, 2026</title>
-      <description>Apple MLX+RDMA Mac Studio cluster (Muse Spark Open); mlx-dspark 0.20.4; llama.cpp rpc-server CVE-2026-118375/119052; Penpot 2.18.0 critical; imgproxy ICO CVEs (4.0.17); Vim 9.2.1309. Tool: mlx-dspark. Quick: uutils PoC; Hickory DNS 0.26.2; llama.cpp moe-cache-cpu-share. Watch: imgproxy notes, Apple post details.</description>
-      <itunes:summary>Apple MLX+RDMA Mac Studio cluster (Muse Spark Open); mlx-dspark 0.20.4; llama.cpp rpc-server CVE-2026-118375/119052; Penpot 2.18.0 critical; imgproxy ICO CVEs (4.0.17); Vim 9.2.1309. Tool: mlx-dspark. Quick: uutils PoC; Hickory DNS 0.26.2; llama.cpp moe-cache-cpu-share. Watch: imgproxy notes, Apple post details.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-09.mp3" length="8369516" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-09</guid>
-      <pubDate>Mon, 09 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>1046</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
