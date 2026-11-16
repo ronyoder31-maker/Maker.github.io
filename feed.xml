@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Nov 2026 05:14:09 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 05:13:17 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Monday, November 16, 2026</title>
+      <description>Huang comeback war room/Haas/Steve Blank; Nvidia Taipei Chang case; Lutnick/Megaspeed; Pax Silica accord; Lovable leak; DOJ FaceStealer takedown; Apple OpenEvidence health study; Apple N50 glasses; Foundation Robotics; Huawei Horinger; SK Hynix Trinity Fab; FAA SMART; Memorilla; Bland Tofu-1; Samsung SDS; Bharat Semi; Alpha School. Lightning: AI code open source; Stearns hackable gear; Raschka; LangChain. Hype or Legit: vibe coding unsafe</description>
+      <itunes:summary>Huang comeback war room/Haas/Steve Blank; Nvidia Taipei Chang case; Lutnick/Megaspeed; Pax Silica accord; Lovable leak; DOJ FaceStealer takedown; Apple OpenEvidence health study; Apple N50 glasses; Foundation Robotics; Huawei Horinger; SK Hynix Trinity Fab; FAA SMART; Memorilla; Bland Tofu-1; Samsung SDS; Bharat Semi; Alpha School. Lightning: AI code open source; Stearns hackable gear; Raschka; LangChain. Hype or Legit: vibe coding unsafe</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-16.mp3" length="12748844" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-16</guid>
+      <pubDate>Mon, 16 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1593</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Sunday, November 15, 2026</title>
       <description>Fireworks/Cursor malicious Claude Code extension; Claude Code Projects update; Google Antigravity teamwork Lean; AlphaEvolve GA; FBI ARTEX; Fed AI risk 87%/Nscale/Applied Digital; Nvidia Haas/investor letter/petition/smuggling; Sierra Poppy/ChatGPT Wallet; Claude deletes professor files; Italy fines Meta 805M; AI counterintel hiring; Weight Space Misfolding; Inkling 2 Small open weights. Lightning: Databento; LangChain; GLM-5.3 DGX; RustingStrata. Hype or Legit: WSJ Nvidia engineered scarcity</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-11-10</guid>
       <pubDate>Tue, 10 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1747</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Monday, November 9, 2026</title>
-      <description>Huang affair/Nvidia board probe/Rubio memo/Trump; Anthropic $3.4B OnePWR generators + $300B AI stock supply; chip imports $1T pace; Anthropic enterprise data notice; professional services +70K jobs; DeepSeek Harness 1.54M DAU; Tencent Yao bio-risk; Apple agentic Siri; Amazon Fauna; AI auditors false alarms; CAISSI/DOJ task force; Inner Mongolia. Lightning: Wehner-Fireworks; Sequoia Botha; Cognition Silicon; Theseus; Truthout schools. Hype or Legit: AI killing white-collar jobs vs jobs report.</description>
-      <itunes:summary>Huang affair/Nvidia board probe/Rubio memo/Trump; Anthropic $3.4B OnePWR generators + $300B AI stock supply; chip imports $1T pace; Anthropic enterprise data notice; professional services +70K jobs; DeepSeek Harness 1.54M DAU; Tencent Yao bio-risk; Apple agentic Siri; Amazon Fauna; AI auditors false alarms; CAISSI/DOJ task force; Inner Mongolia. Lightning: Wehner-Fireworks; Sequoia Botha; Cognition Silicon; Theseus; Truthout schools. Hype or Legit: AI killing white-collar jobs vs jobs report.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-09.mp3" length="13771628" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-09</guid>
-      <pubDate>Mon, 09 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1721</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
