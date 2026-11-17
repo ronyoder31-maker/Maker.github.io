@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 05:13:17 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:12:48 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Tuesday, November 17, 2026</title>
+      <description>Google exploit_agent autonomous attack; AMD closes World Labs/TensorWave OpenAI; Vera Rubin MLPerf; Huang board/Altman/Madison Huang; BIS remote chip rule/Lutnick; California sues OpenAI/embedded safety assessors; Anthropic IPO/30-day disclosure; Optimizely malware; OpenAI healthcare agents; macOS 27.3 vs Windows telemetry; Caltech math; Arist; OpenCode Browse; slop mill; Remedy; tiny-voca. Lightning: LVMH; Tencent Hy4 Flash; Cerebras Tungsten; Blackstone AWS. Hype or Legit: OpenAI 99% safe healthcare agents</description>
+      <itunes:summary>Google exploit_agent autonomous attack; AMD closes World Labs/TensorWave OpenAI; Vera Rubin MLPerf; Huang board/Altman/Madison Huang; BIS remote chip rule/Lutnick; California sues OpenAI/embedded safety assessors; Anthropic IPO/30-day disclosure; Optimizely malware; OpenAI healthcare agents; macOS 27.3 vs Windows telemetry; Caltech math; Arist; OpenCode Browse; slop mill; Remedy; tiny-voca. Lightning: LVMH; Tencent Hy4 Flash; Cerebras Tungsten; Blackstone AWS. Hype or Legit: OpenAI 99% safe healthcare agents</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-17.mp3" length="13236524" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1654</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Monday, November 16, 2026</title>
       <description>Huang comeback war room/Haas/Steve Blank; Nvidia Taipei Chang case; Lutnick/Megaspeed; Pax Silica accord; Lovable leak; DOJ FaceStealer takedown; Apple OpenEvidence health study; Apple N50 glasses; Foundation Robotics; Huawei Horinger; SK Hynix Trinity Fab; FAA SMART; Memorilla; Bland Tofu-1; Samsung SDS; Bharat Semi; Alpha School. Lightning: AI code open source; Stearns hackable gear; Raschka; LangChain. Hype or Legit: vibe coding unsafe</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-11-11</guid>
       <pubDate>Wed, 11 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1440</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Tuesday, November 10, 2026</title>
-      <description>Anthropic $69.3B IPO filing; Fable/Mythos 5.2; Operation Snowball DeepSeek agent/Cisco BroadWorks; Fireworks 2nd breach; Google TPU 8tx/8i Max; Apple Intelligence Usage Packs; SpaceX Starbase $24B; Nvidia Huang fallout/governance; Gemini human review; Coframe/Spacefast/DeepX/PhysicsWallah/CPU-ARC. Lightning: Qantas-Accenture; Vanta-Pillar; GR00T 2; Atlas wheels; Meta Muse Ember. Hype or Legit: Fermat formalization by 1000 agents.</description>
-      <itunes:summary>Anthropic $69.3B IPO filing; Fable/Mythos 5.2; Operation Snowball DeepSeek agent/Cisco BroadWorks; Fireworks 2nd breach; Google TPU 8tx/8i Max; Apple Intelligence Usage Packs; SpaceX Starbase $24B; Nvidia Huang fallout/governance; Gemini human review; Coframe/Spacefast/DeepX/PhysicsWallah/CPU-ARC. Lightning: Qantas-Accenture; Vanta-Pillar; GR00T 2; Atlas wheels; Meta Muse Ember. Hype or Legit: Fermat formalization by 1000 agents.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-10.mp3" length="13980524" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-10</guid>
-      <pubDate>Tue, 10 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1747</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
