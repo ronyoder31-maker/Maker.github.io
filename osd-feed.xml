@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Mon, 16 Nov 2026 05:34:33 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 05:36:46 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Tuesday, November 17, 2026</title>
+      <description>LibreOffice RCE CVE-2026-104692/104007 (fix 26.2.7/26.8.2); Apache Shiro CVE-2026-129349; Ollama 0.40.17-rc1 MLX concurrency; Superfluid (Apache-2.0, vendor benchmarks); Seerr 3.5.2 imageproxy. Tool: Rapid-MLX launch. Quick: Authlib 1.9.8; fastify busboy 3.2.6; DJL 0.40.0; Tor 0.4.9.17. Watch: Ollama 0.40.17 stable, LibreOffice in-the-wild exploitation.</description>
+      <itunes:summary>LibreOffice RCE CVE-2026-104692/104007 (fix 26.2.7/26.8.2); Apache Shiro CVE-2026-129349; Ollama 0.40.17-rc1 MLX concurrency; Superfluid (Apache-2.0, vendor benchmarks); Seerr 3.5.2 imageproxy. Tool: Rapid-MLX launch. Quick: Authlib 1.9.8; fastify busboy 3.2.6; DJL 0.40.0; Tor 0.4.9.17. Watch: Ollama 0.40.17 stable, LibreOffice in-the-wild exploitation.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-17.mp3" length="7321388" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-17</guid>
+      <pubDate>Tue, 17 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>915</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Monday, November 16, 2026</title>
       <description>NoisyTCP Linux CVE-2026-99288; Gitea 28.4.0 CVE-2026-123006; Inkling 2 in llama.cpp (172GB, no fit); Bielik 11B v3.1; Harbor rumor. Tool: Llama app. Quick: NLTK 3.10.4; Seafile SeaDoc; Echo 4.16.5; Muse Spark Open. Watch: llama.cpp tag w/ Inkling fixes, Ollama 0.40.17 stable, Harbor.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-11</guid>
       <pubDate>Wed, 11 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>1068</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Tuesday, November 10, 2026</title>
-      <description>Ripple-65B Preview (Apache 2.0); Ollama 0.40.16 (Qwen3.8 Flash Next -27GiB on Apple silicon); Expo Exact; Meta Muse Ember (closed); Darling AI policy; Firefox 160. Tool: Ollama. Quick: Mesa 26.3; llama.cpp b12198/9; Linux 7.4-rc2; Zlib 1.4. Watch: Ripple independent tests.</description>
-      <itunes:summary>Ripple-65B Preview (Apache 2.0); Ollama 0.40.16 (Qwen3.8 Flash Next -27GiB on Apple silicon); Expo Exact; Meta Muse Ember (closed); Darling AI policy; Firefox 160. Tool: Ollama. Quick: Mesa 26.3; llama.cpp b12198/9; Linux 7.4-rc2; Zlib 1.4. Watch: Ripple independent tests.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-10.mp3" length="6558764" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-10</guid>
-      <pubDate>Tue, 10 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>819</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
