@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:36:46 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:35:24 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Wednesday, November 18, 2026</title>
+      <description>Java4Shell OpenJDK CVE-2026-114938; ONNX Runtime repo 404; SenseNova-Loop-9B; Solid 2.0; jQuery 4.1.0. Tool: Ollama+Flint. Quick: Quad9 leaves France; Apple Support Community archive; tiny-voca. Watch: ONNX Runtime explanation, Java4Shell exploitation, Ollama 0.40.17 stable.</description>
+      <itunes:summary>Java4Shell OpenJDK CVE-2026-114938; ONNX Runtime repo 404; SenseNova-Loop-9B; Solid 2.0; jQuery 4.1.0. Tool: Ollama+Flint. Quick: Quad9 leaves France; Apple Support Community archive; tiny-voca. Watch: ONNX Runtime explanation, Java4Shell exploitation, Ollama 0.40.17 stable.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-18.mp3" length="6372140" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>796</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Tuesday, November 17, 2026</title>
       <description>LibreOffice RCE CVE-2026-104692/104007 (fix 26.2.7/26.8.2); Apache Shiro CVE-2026-129349; Ollama 0.40.17-rc1 MLX concurrency; Superfluid (Apache-2.0, vendor benchmarks); Seerr 3.5.2 imageproxy. Tool: Rapid-MLX launch. Quick: Authlib 1.9.8; fastify busboy 3.2.6; DJL 0.40.0; Tor 0.4.9.17. Watch: Ollama 0.40.17 stable, LibreOffice in-the-wild exploitation.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-12</guid>
       <pubDate>Thu, 12 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>779</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Wednesday, November 11, 2026</title>
-      <description>Git 2.56.1 six CVEs; GPUStack CVE-2026-102895 KEV; Xen Orchestra VSA-2026-062; Ollama 0.40.17-rc0 MLX concurrency; llama.cpp b12259 (Kimi K3.1 vision, TTS); Blender 5.3. Tool: Blender. Quick: Firefox 160 CVEs; Synaptics DisplayLink; kernels 7.3.4; Procexp-Mac. Watch: Ollama 0.40.17 stable, Xen Orchestra CVE.</description>
-      <itunes:summary>Git 2.56.1 six CVEs; GPUStack CVE-2026-102895 KEV; Xen Orchestra VSA-2026-062; Ollama 0.40.17-rc0 MLX concurrency; llama.cpp b12259 (Kimi K3.1 vision, TTS); Blender 5.3. Tool: Blender. Quick: Firefox 160 CVEs; Synaptics DisplayLink; kernels 7.3.4; Procexp-Mac. Watch: Ollama 0.40.17 stable, Xen Orchestra CVE.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-11.mp3" length="8546348" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-11</guid>
-      <pubDate>Wed, 11 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>1068</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
