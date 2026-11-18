@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Nov 2026 05:12:48 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 05:15:37 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Wednesday, November 18, 2026</title>
+      <description>Nvidia Q3 record/ends H200 China sales; Huang return statement/board split/Zitron; GPT-6.2 Astra/Sol; Microsoft Ignite MAI Code 2/Agent 365; Cognition Devin Bots; Java4Shell Codex; outages/AI patches/Juniper FAA; Mythos AMD kernels; Anthropic IPO wealth; Vals targeting study; NY ASSET; Waymo freeway ban; Cerebras disaggregated inference. Lightning: Uber Zipline; Genesis AI; DeepSeek caps; China distillation; Suno Visuals. Hype or Legit: Mythos AMD port</description>
+      <itunes:summary>Nvidia Q3 record/ends H200 China sales; Huang return statement/board split/Zitron; GPT-6.2 Astra/Sol; Microsoft Ignite MAI Code 2/Agent 365; Cognition Devin Bots; Java4Shell Codex; outages/AI patches/Juniper FAA; Mythos AMD kernels; Anthropic IPO wealth; Vals targeting study; NY ASSET; Waymo freeway ban; Cerebras disaggregated inference. Lightning: Uber Zipline; Genesis AI; DeepSeek caps; China distillation; Suno Visuals. Hype or Legit: Mythos AMD port</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-18.mp3" length="12008492" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1501</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Tuesday, November 17, 2026</title>
       <description>Google exploit_agent autonomous attack; AMD closes World Labs/TensorWave OpenAI; Vera Rubin MLPerf; Huang board/Altman/Madison Huang; BIS remote chip rule/Lutnick; California sues OpenAI/embedded safety assessors; Anthropic IPO/30-day disclosure; Optimizely malware; OpenAI healthcare agents; macOS 27.3 vs Windows telemetry; Caltech math; Arist; OpenCode Browse; slop mill; Remedy; tiny-voca. Lightning: LVMH; Tencent Hy4 Flash; Cerebras Tungsten; Blackstone AWS. Hype or Legit: OpenAI 99% safe healthcare agents</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-11-12</guid>
       <pubDate>Thu, 12 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1548</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Wednesday, November 11, 2026</title>
-      <description>Gemini 4 Carbon; Anthropic IPO range/Lambda; Claude Sheets/Meetings/Whiteboards + IBM-Microsoft Imagine; DeepMind AlphaProof Code/Signal; Railway breach/Notion-Fireworks; OpenAI Businesses; OpenAI Control Room/Australia regulator; AMD Venice; Meituan LongCat-2.5; Stanford AI100; Nvidia Wachtell/Megaspeed. Lightning: Apple Harbor; GPUStack KEV; ChatGPT voice retire; Adobe MCP; Synaptics. Hype or Legit: Glasswing accuracy</description>
-      <itunes:summary>Gemini 4 Carbon; Anthropic IPO range/Lambda; Claude Sheets/Meetings/Whiteboards + IBM-Microsoft Imagine; DeepMind AlphaProof Code/Signal; Railway breach/Notion-Fireworks; OpenAI Businesses; OpenAI Control Room/Australia regulator; AMD Venice; Meituan LongCat-2.5; Stanford AI100; Nvidia Wachtell/Megaspeed. Lightning: Apple Harbor; GPUStack KEV; ChatGPT voice retire; Adobe MCP; Synaptics. Hype or Legit: Glasswing accuracy</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-11.mp3" length="11527148" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-11</guid>
-      <pubDate>Wed, 11 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1440</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
