@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 05:35:24 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:34:46 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Thursday, November 19, 2026</title>
+      <description>nginx HTTP/2 RCE CVE-2026-123633/123007; Ruby 7 advisories (4.0.10); DaisyRose-27B (64GB fit, MLX 4-bit); Microsoft agent-framework PyPI stealer; Palo Alto/Applied Compute $4.5B; Meta Cuttlefish on Mac. Tool: FailTrace. Quick: Ollama 0.40.17-rc1; ExitPath; tamserve. Watch: nginx exploit code, Ollama 0.40.17 stable, DaisyRose benchmarks.</description>
+      <itunes:summary>nginx HTTP/2 RCE CVE-2026-123633/123007; Ruby 7 advisories (4.0.10); DaisyRose-27B (64GB fit, MLX 4-bit); Microsoft agent-framework PyPI stealer; Palo Alto/Applied Compute $4.5B; Meta Cuttlefish on Mac. Tool: FailTrace. Quick: Ollama 0.40.17-rc1; ExitPath; tamserve. Watch: nginx exploit code, Ollama 0.40.17 stable, DaisyRose benchmarks.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-19.mp3" length="7926764" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>990</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Wednesday, November 18, 2026</title>
       <description>Java4Shell OpenJDK CVE-2026-114938; ONNX Runtime repo 404; SenseNova-Loop-9B; Solid 2.0; jQuery 4.1.0. Tool: Ollama+Flint. Quick: Quad9 leaves France; Apple Support Community archive; tiny-voca. Watch: ONNX Runtime explanation, Java4Shell exploitation, Ollama 0.40.17 stable.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-13</guid>
       <pubDate>Fri, 13 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>751</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Thursday, November 12, 2026</title>
-      <description>Apache httpd 2.4.71 CVE-2026-119618; MACaQ quantizer (MACaQ-R GGUF); Stela; AWS Emulator; X.Org 8 CVEs. Tool: Yogurt. Quick: Ollama 0.40.17-rc0 MLX concurrency; Stoakes AI patch flood; Intel microcode 20261110. Watch: Apache exploit/Homebrew, Ollama stable, MACaQ-R Mac tests.</description>
-      <itunes:summary>Apache httpd 2.4.71 CVE-2026-119618; MACaQ quantizer (MACaQ-R GGUF); Stela; AWS Emulator; X.Org 8 CVEs. Tool: Yogurt. Quick: Ollama 0.40.17-rc0 MLX concurrency; Stoakes AI patch flood; Intel microcode 20261110. Watch: Apache exploit/Homebrew, Ollama stable, MACaQ-R Mac tests.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-12.mp3" length="6233900" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-12</guid>
-      <pubDate>Thu, 12 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>779</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
