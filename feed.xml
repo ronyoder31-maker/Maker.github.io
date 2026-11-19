@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 18 Nov 2026 05:15:37 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 05:13:22 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Thursday, November 19, 2026</title>
+      <description>Anthropic IPO priced $83/ANT; Gemini 4 Neon/Google Tasks free; Microsoft agent-framework PyPI hijack; OpenAI research acceleration; Nvidia RTX Spark; China Telecom Xing4 Ascend; Salesforce token caps; Nadella buyouts/Ignite Autopilot/MAI Code 2; schools vs Google Search; Chinese AI disclosure rule; Meta Gryffindor/Class C pause. Lightning: TRM DHS; Palo Alto; Mistral Vibe; BrightAI; DaisyRose. Hype or Legit: OpenAI 46% research tasks</description>
+      <itunes:summary>Anthropic IPO priced $83/ANT; Gemini 4 Neon/Google Tasks free; Microsoft agent-framework PyPI hijack; OpenAI research acceleration; Nvidia RTX Spark; China Telecom Xing4 Ascend; Salesforce token caps; Nadella buyouts/Ignite Autopilot/MAI Code 2; schools vs Google Search; Chinese AI disclosure rule; Meta Gryffindor/Class C pause. Lightning: TRM DHS; Palo Alto; Mistral Vibe; BrightAI; DaisyRose. Hype or Legit: OpenAI 46% research tasks</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-19.mp3" length="13107692" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1638</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Wednesday, November 18, 2026</title>
       <description>Nvidia Q3 record/ends H200 China sales; Huang return statement/board split/Zitron; GPT-6.2 Astra/Sol; Microsoft Ignite MAI Code 2/Agent 365; Cognition Devin Bots; Java4Shell Codex; outages/AI patches/Juniper FAA; Mythos AMD kernels; Anthropic IPO wealth; Vals targeting study; NY ASSET; Waymo freeway ban; Cerebras disaggregated inference. Lightning: Uber Zipline; Genesis AI; DeepSeek caps; China distillation; Suno Visuals. Hype or Legit: Mythos AMD port</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-11-13</guid>
       <pubDate>Fri, 13 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1524</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Thursday, November 12, 2026</title>
-      <description>Nvidia board/Huang ouster + Megaspeed/Warren/Bessent; Anthropic China ban + OpenAI Nov 20; Silent Lynx Hermes agent; AlphaGenome 2 + Gemini Robotics 2.5 + NTT; Spotify AI remix; United blocks agents; funding (Mercor, Path, Blue J, Applied Intuition, CoreWeave loan); Grok Build leak/GPUStack KEV; MS Lazarus; Stanford AI100. Lightning: IBM Nighthawk r3; Gemini Decisions API; Qwen4-Max; England OfS. Hype or Legit: Glasswing accuracy</description>
-      <itunes:summary>Nvidia board/Huang ouster + Megaspeed/Warren/Bessent; Anthropic China ban + OpenAI Nov 20; Silent Lynx Hermes agent; AlphaGenome 2 + Gemini Robotics 2.5 + NTT; Spotify AI remix; United blocks agents; funding (Mercor, Path, Blue J, Applied Intuition, CoreWeave loan); Grok Build leak/GPUStack KEV; MS Lazarus; Stanford AI100. Lightning: IBM Nighthawk r3; Gemini Decisions API; Qwen4-Max; England OfS. Hype or Legit: Glasswing accuracy</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-12.mp3" length="12389036" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-12</guid>
-      <pubDate>Thu, 12 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1548</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
