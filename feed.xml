@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Nov 2026 05:13:22 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 05:16:24 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Friday, November 20, 2026</title>
+      <description>Anthropic IPO day one/VC winners; GAO chatbot terror plans; House chip export data 879k to China; DeepSeek 15.8B round; Kokoro HF hijack; banks shift agent losses; Kentucky AI facial recognition ruling; Character.AI Disney sale; Nvidia Inception/RTX Spark; Intuit Mailchimp. Lightning: Apple agent jobs; Snap Easy Lens; ChatGPT dictation; Kling Image 4; cyber leadership; Ruby2Shell. Hype or Legit: DeepMind AGI to ASI essay</description>
+      <itunes:summary>Anthropic IPO day one/VC winners; GAO chatbot terror plans; House chip export data 879k to China; DeepSeek 15.8B round; Kokoro HF hijack; banks shift agent losses; Kentucky AI facial recognition ruling; Character.AI Disney sale; Nvidia Inception/RTX Spark; Intuit Mailchimp. Lightning: Apple agent jobs; Snap Easy Lens; ChatGPT dictation; Kling Image 4; cyber leadership; Ruby2Shell. Hype or Legit: DeepMind AGI to ASI essay</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-20.mp3" length="13299116" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1662</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Thursday, November 19, 2026</title>
       <description>Anthropic IPO priced $83/ANT; Gemini 4 Neon/Google Tasks free; Microsoft agent-framework PyPI hijack; OpenAI research acceleration; Nvidia RTX Spark; China Telecom Xing4 Ascend; Salesforce token caps; Nadella buyouts/Ignite Autopilot/MAI Code 2; schools vs Google Search; Chinese AI disclosure rule; Meta Gryffindor/Class C pause. Lightning: TRM DHS; Palo Alto; Mistral Vibe; BrightAI; DaisyRose. Hype or Legit: OpenAI 46% research tasks</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-11-14</guid>
       <pubDate>Sat, 14 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1566</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Friday, November 13, 2026</title>
-      <description>Huang resigns/Kress interim/Jones chair + Senate/DOJ walkback/financing; Anthropic S-1 RSP threshold; Chinese models Blackwell fingerprints; Gemini 4 Hydrogen; nonprofits sue labs; FBI FaceStealer/AntiFox; Edge0 145B; funding (Agile Robots, Norwest, Nebuly, Hatz, Luminal); Economist crash/Cisco; Chicago schools. Lightning: ByteDance buyback; M365 outage; Apple AI app review; Inner Mongolia. Hype or Legit: Edge0 laptop claim</description>
-      <itunes:summary>Huang resigns/Kress interim/Jones chair + Senate/DOJ walkback/financing; Anthropic S-1 RSP threshold; Chinese models Blackwell fingerprints; Gemini 4 Hydrogen; nonprofits sue labs; FBI FaceStealer/AntiFox; Edge0 145B; funding (Agile Robots, Norwest, Nebuly, Hatz, Luminal); Economist crash/Cisco; Chicago schools. Lightning: ByteDance buyback; M365 outage; Apple AI app review; Inner Mongolia. Hype or Legit: Edge0 laptop claim</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-13.mp3" length="12196076" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-13</guid>
-      <pubDate>Fri, 13 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1524</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
