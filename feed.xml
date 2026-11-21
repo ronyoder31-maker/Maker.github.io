@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:16:24 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:11:16 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Saturday, November 21, 2026</title>
+      <description>Alpöge Claude GRH proof claim/Masullo human proof; Fable 5.2 black hole + Fermat Lean; METR judgment tasks; Nvidia 7-week streak/SEC/California AG/879k chips/Bessent; Anthropic greenshoe $93.5B/TSMC stake; Trump overseas data center tax; Oracle funded; Amazon Cairn MONAI zero-day; CrowdStrike-Zscaler; Inkling 2 Mini; Cognition/Databricks/LangChain; Signal vs AI assistants; Computer Use Team. Lightning: Cursor Chinese models; Etsy AI terms; MedChemBench; FPGA agents/SK Hynix MARS. Hype or Legit: Fable Fermat Lean 30 hours</description>
+      <itunes:summary>Alpöge Claude GRH proof claim/Masullo human proof; Fable 5.2 black hole + Fermat Lean; METR judgment tasks; Nvidia 7-week streak/SEC/California AG/879k chips/Bessent; Anthropic greenshoe $93.5B/TSMC stake; Trump overseas data center tax; Oracle funded; Amazon Cairn MONAI zero-day; CrowdStrike-Zscaler; Inkling 2 Mini; Cognition/Databricks/LangChain; Signal vs AI assistants; Computer Use Team. Lightning: Cursor Chinese models; Etsy AI terms; MedChemBench; FPGA agents/SK Hynix MARS. Hype or Legit: Fable Fermat Lean 30 hours</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-21.mp3" length="13186796" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1648</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Friday, November 20, 2026</title>
       <description>Anthropic IPO day one/VC winners; GAO chatbot terror plans; House chip export data 879k to China; DeepSeek 15.8B round; Kokoro HF hijack; banks shift agent losses; Kentucky AI facial recognition ruling; Character.AI Disney sale; Nvidia Inception/RTX Spark; Intuit Mailchimp. Lightning: Apple agent jobs; Snap Easy Lens; ChatGPT dictation; Kling Image 4; cyber leadership; Ruby2Shell. Hype or Legit: DeepMind AGI to ASI essay</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-11-15</guid>
       <pubDate>Sun, 15 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1607</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Saturday, November 14, 2026</title>
-      <description>FAA ground stop/SMART AI; Nvidia Haas approach/Senate/$500B financing/startup funding; ChatGPT Wallet; Amazon World Product Graph; Tesla Cybercab orders; LangChain/Kindo/Mirendil funding; Apple HomeView; OpenAI robotics team disbanded/ASUS Gallop; Moonshot IPO; Inkling 2 Small; Anthropic self-hosted agents; OpenAI Daybreak. Lightning: HappyShrimp; Ontario OpenAI suit; Alsup ClaimsHero; WH AI task force; Meta Takes. Hype or Legit: IBM Granite LLMON injection</description>
-      <itunes:summary>FAA ground stop/SMART AI; Nvidia Haas approach/Senate/$500B financing/startup funding; ChatGPT Wallet; Amazon World Product Graph; Tesla Cybercab orders; LangChain/Kindo/Mirendil funding; Apple HomeView; OpenAI robotics team disbanded/ASUS Gallop; Moonshot IPO; Inkling 2 Small; Anthropic self-hosted agents; OpenAI Daybreak. Lightning: HappyShrimp; Ontario OpenAI suit; Alsup ClaimsHero; WH AI task force; Meta Takes. Hype or Legit: IBM Granite LLMON injection</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-14.mp3" length="12533228" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-14</guid>
-      <pubDate>Sat, 14 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1566</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
