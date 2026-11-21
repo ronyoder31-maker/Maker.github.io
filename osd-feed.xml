@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Nov 2026 05:36:45 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 05:35:53 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Saturday, November 21, 2026</title>
+      <description>Inkling 2 Mini (Apache-2.0, 20GB, fits 64GB); Ollama 0.40.17 stable (MLX concurrency); PHP Nov 19 security release; OpenComputer; DreamCoder (closed); llama.cpp M5 CONV_2D + IQ2. Tool: Ollama+Inkling+OpenCode. Quick: fastify reply-from; Netatalk CVE-2026-62318; fusion-mlx; Rapid-MLX 1.0.5. Watch: Inkling Mac benchmarks, PHP exploitation, Ollama #19678.</description>
+      <itunes:summary>Inkling 2 Mini (Apache-2.0, 20GB, fits 64GB); Ollama 0.40.17 stable (MLX concurrency); PHP Nov 19 security release; OpenComputer; DreamCoder (closed); llama.cpp M5 CONV_2D + IQ2. Tool: Ollama+Inkling+OpenCode. Quick: fastify reply-from; Netatalk CVE-2026-62318; fusion-mlx; Rapid-MLX 1.0.5. Watch: Inkling Mac benchmarks, PHP exploitation, Ollama #19678.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-21.mp3" length="7863020" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>982</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Friday, November 20, 2026</title>
       <description>PostgreSQL 19; OpenSSL CVE-2026-121481 (disputed, PR open); Olala mini 7A1B MLX fork; Tencent Hy4 flash (no 64GB fit); Onlook. Tool: Qwen3.6-35B-A3B OptiQ 4bit. Quick: Unsloth 0.1.920; PG19 upgrade checks; OpenSSL #33812. Watch: OpenSSL advisory, llama.cpp Hy4 PR, Olala upstream.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-15</guid>
       <pubDate>Sun, 15 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>1010</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Saturday, November 14, 2026</title>
-      <description>llama.cpp/ggml v1.0.0; Qwen3.8-27B Unsloth Dynamic 3.1 (64GB fit); Ollama 0.40.17-rc0 MLX concurrency; PostgreSQL 52 CVEs; Cloudflare Kitesurf; VulnCheck Glasswing. Tool: Unsloth Desktop. Quick: Wine 11.22; XRAID; AMD HRX Loom; KDE Frameworks 6.32. Watch: Ollama 0.40.17 stable, Homebrew llama.cpp 1.0.</description>
-      <itunes:summary>llama.cpp/ggml v1.0.0; Qwen3.8-27B Unsloth Dynamic 3.1 (64GB fit); Ollama 0.40.17-rc0 MLX concurrency; PostgreSQL 52 CVEs; Cloudflare Kitesurf; VulnCheck Glasswing. Tool: Unsloth Desktop. Quick: Wine 11.22; XRAID; AMD HRX Loom; KDE Frameworks 6.32. Watch: Ollama 0.40.17 stable, Homebrew llama.cpp 1.0.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-14.mp3" length="7206188" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-14</guid>
-      <pubDate>Sat, 14 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>900</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
