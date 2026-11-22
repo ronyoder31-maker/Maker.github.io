@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 05:11:16 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 05:10:13 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Sunday, November 22, 2026</title>
+      <description>Nasdaq worst week/Nvidia -22.9%/Taiwan short-sale ban; Google Broadcom TPU cut; FT Megaspeed smuggling; Fortune DeepSeek on US clouds; Dragos canary test; Meta Muse sandbox escape; Amazon-Decart; OpenAI-Foxconn; ChatGPT outage; Navier-Stokes AI proof; Cognition raise; OpenAI distillation; China token standards/capex. Lightning: Walmart Sparky; UN killer robots; Fincher/Shortical; ClawDOS. Hype or Legit: AI solved Navier-Stokes</description>
+      <itunes:summary>Nasdaq worst week/Nvidia -22.9%/Taiwan short-sale ban; Google Broadcom TPU cut; FT Megaspeed smuggling; Fortune DeepSeek on US clouds; Dragos canary test; Meta Muse sandbox escape; Amazon-Decart; OpenAI-Foxconn; ChatGPT outage; Navier-Stokes AI proof; Cognition raise; OpenAI distillation; China token standards/capex. Lightning: Walmart Sparky; UN killer robots; Fincher/Shortical; ClawDOS. Hype or Legit: AI solved Navier-Stokes</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-22.mp3" length="11975084" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1496</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Saturday, November 21, 2026</title>
       <description>Alpöge Claude GRH proof claim/Masullo human proof; Fable 5.2 black hole + Fermat Lean; METR judgment tasks; Nvidia 7-week streak/SEC/California AG/879k chips/Bessent; Anthropic greenshoe $93.5B/TSMC stake; Trump overseas data center tax; Oracle funded; Amazon Cairn MONAI zero-day; CrowdStrike-Zscaler; Inkling 2 Mini; Cognition/Databricks/LangChain; Signal vs AI assistants; Computer Use Team. Lightning: Cursor Chinese models; Etsy AI terms; MedChemBench; FPGA agents/SK Hynix MARS. Hype or Legit: Fable Fermat Lean 30 hours</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">byte-club-2026-11-16</guid>
       <pubDate>Mon, 16 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1593</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Sunday, November 15, 2026</title>
-      <description>Fireworks/Cursor malicious Claude Code extension; Claude Code Projects update; Google Antigravity teamwork Lean; AlphaEvolve GA; FBI ARTEX; Fed AI risk 87%/Nscale/Applied Digital; Nvidia Haas/investor letter/petition/smuggling; Sierra Poppy/ChatGPT Wallet; Claude deletes professor files; Italy fines Meta 805M; AI counterintel hiring; Weight Space Misfolding; Inkling 2 Small open weights. Lightning: Databento; LangChain; GLM-5.3 DGX; RustingStrata. Hype or Legit: WSJ Nvidia engineered scarcity</description>
-      <itunes:summary>Fireworks/Cursor malicious Claude Code extension; Claude Code Projects update; Google Antigravity teamwork Lean; AlphaEvolve GA; FBI ARTEX; Fed AI risk 87%/Nscale/Applied Digital; Nvidia Haas/investor letter/petition/smuggling; Sierra Poppy/ChatGPT Wallet; Claude deletes professor files; Italy fines Meta 805M; AI counterintel hiring; Weight Space Misfolding; Inkling 2 Small open weights. Lightning: Databento; LangChain; GLM-5.3 DGX; RustingStrata. Hype or Legit: WSJ Nvidia engineered scarcity</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-15.mp3" length="12859436" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-15</guid>
-      <pubDate>Sun, 15 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1607</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
