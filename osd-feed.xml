@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Nov 2026 05:35:53 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 05:34:32 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Sunday, November 22, 2026</title>
+      <description>GPGME CVE-2026-129975 (2.3.1); LookAtMyQuant (Inkling-2-Mini 5.4GB, self-reported); inkling2-mlx fork; Fastify express/middie bypass; Dockhand CVE-2026-134452; Sashiko perf review. Tool: Laya-MLX. Quick: Rust Coreutils 0.13; FFmpeg 9.1; Debian 13.8/FreeBSD 15.2b3; Kwi. Watch: GPGME exploitation, LookAtMyQuant repro, middie fix.</description>
+      <itunes:summary>GPGME CVE-2026-129975 (2.3.1); LookAtMyQuant (Inkling-2-Mini 5.4GB, self-reported); inkling2-mlx fork; Fastify express/middie bypass; Dockhand CVE-2026-134452; Sashiko perf review. Tool: Laya-MLX. Quick: Rust Coreutils 0.13; FFmpeg 9.1; Debian 13.8/FreeBSD 15.2b3; Kwi. Watch: GPGME exploitation, LookAtMyQuant repro, middie fix.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-22.mp3" length="6168620" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-22</guid>
+      <pubDate>Sun, 22 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>771</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Saturday, November 21, 2026</title>
       <description>Inkling 2 Mini (Apache-2.0, 20GB, fits 64GB); Ollama 0.40.17 stable (MLX concurrency); PHP Nov 19 security release; OpenComputer; DreamCoder (closed); llama.cpp M5 CONV_2D + IQ2. Tool: Ollama+Inkling+OpenCode. Quick: fastify reply-from; Netatalk CVE-2026-62318; fusion-mlx; Rapid-MLX 1.0.5. Watch: Inkling Mac benchmarks, PHP exploitation, Ollama #19678.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-16</guid>
       <pubDate>Mon, 16 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>863</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Sunday, November 15, 2026</title>
-      <description>Project Zero Full 90/60/30 disclosure policy; Haru-4B (MLX app); deepseek-v3-jax; Apple M5 Linux 7.5; Chrome modern-web-guidance; Redox OS no-LLM policy. Tool: Plannotator. Quick: alibaba open-code-review; chrome-devtools-mcp; Plasma 6.9; FreeBSD 15.2 B2. Watch: Ollama 0.40.17 stable, Haru Mac reports.</description>
-      <itunes:summary>Project Zero Full 90/60/30 disclosure policy; Haru-4B (MLX app); deepseek-v3-jax; Apple M5 Linux 7.5; Chrome modern-web-guidance; Redox OS no-LLM policy. Tool: Plannotator. Quick: alibaba open-code-review; chrome-devtools-mcp; Plasma 6.9; FreeBSD 15.2 B2. Watch: Ollama 0.40.17 stable, Haru Mac reports.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-15.mp3" length="8085356" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-15</guid>
-      <pubDate>Sun, 15 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>1010</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
