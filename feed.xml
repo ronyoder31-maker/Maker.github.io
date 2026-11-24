@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Nov 2026 05:10:13 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 05:12:36 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Tuesday, November 24, 2026</title>
+      <description>Huang reinstated at Nvidia/Nasdaq rebound/Megaspeed blacklist/House interviews Dec 1-2; Anthropic Working with AI study/RAISE report/Claude Ship; DeepMind Gemini quantum algorithms Lean; CrowdStrike-Zscaler $43.9B; Amazon-Decart $7.5B/Marlowe $277M seed; Virginia-Oregon sue SpaceX over Grok; Sierra $1.75B/Embo/SambaNova; OpenAI-Cisco Shirudo/Cisco Expressway/ScreenConnect/GL.iNet exploits; Google AI Mode Wallet. Lightning: Schiff no-AI-bailout resolution; Ant LingSante; Polemos YC; OpenAI engineer Codex bug; UN Guterres Bridgetown. Hype or Legit: DeepMind quantum algorithms (mostly legit)</description>
+      <itunes:summary>Huang reinstated at Nvidia/Nasdaq rebound/Megaspeed blacklist/House interviews Dec 1-2; Anthropic Working with AI study/RAISE report/Claude Ship; DeepMind Gemini quantum algorithms Lean; CrowdStrike-Zscaler $43.9B; Amazon-Decart $7.5B/Marlowe $277M seed; Virginia-Oregon sue SpaceX over Grok; Sierra $1.75B/Embo/SambaNova; OpenAI-Cisco Shirudo/Cisco Expressway/ScreenConnect/GL.iNet exploits; Google AI Mode Wallet. Lightning: Schiff no-AI-bailout resolution; Ant LingSante; Polemos YC; OpenAI engineer Codex bug; UN Guterres Bridgetown. Hype or Legit: DeepMind quantum algorithms (mostly legit)</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-24.mp3" length="14854700" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1856</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Sunday, November 22, 2026</title>
       <description>Nasdaq worst week/Nvidia -22.9%/Taiwan short-sale ban; Google Broadcom TPU cut; FT Megaspeed smuggling; Fortune DeepSeek on US clouds; Dragos canary test; Meta Muse sandbox escape; Amazon-Decart; OpenAI-Foxconn; ChatGPT outage; Navier-Stokes AI proof; Cognition raise; OpenAI distillation; China token standards/capex. Lightning: Walmart Sparky; UN killer robots; Fincher/Shortical; ClawDOS. Hype or Legit: AI solved Navier-Stokes</description>
@@ -66,28 +77,6 @@
       <guid isPermaLink="false">byte-club-2026-11-18</guid>
       <pubDate>Wed, 18 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1501</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Tuesday, November 17, 2026</title>
-      <description>Google exploit_agent autonomous attack; AMD closes World Labs/TensorWave OpenAI; Vera Rubin MLPerf; Huang board/Altman/Madison Huang; BIS remote chip rule/Lutnick; California sues OpenAI/embedded safety assessors; Anthropic IPO/30-day disclosure; Optimizely malware; OpenAI healthcare agents; macOS 27.3 vs Windows telemetry; Caltech math; Arist; OpenCode Browse; slop mill; Remedy; tiny-voca. Lightning: LVMH; Tencent Hy4 Flash; Cerebras Tungsten; Blackstone AWS. Hype or Legit: OpenAI 99% safe healthcare agents</description>
-      <itunes:summary>Google exploit_agent autonomous attack; AMD closes World Labs/TensorWave OpenAI; Vera Rubin MLPerf; Huang board/Altman/Madison Huang; BIS remote chip rule/Lutnick; California sues OpenAI/embedded safety assessors; Anthropic IPO/30-day disclosure; Optimizely malware; OpenAI healthcare agents; macOS 27.3 vs Windows telemetry; Caltech math; Arist; OpenCode Browse; slop mill; Remedy; tiny-voca. Lightning: LVMH; Tencent Hy4 Flash; Cerebras Tungsten; Blackstone AWS. Hype or Legit: OpenAI 99% safe healthcare agents</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-17.mp3" length="13236524" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-17</guid>
-      <pubDate>Tue, 17 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1654</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Monday, November 16, 2026</title>
-      <description>Huang comeback war room/Haas/Steve Blank; Nvidia Taipei Chang case; Lutnick/Megaspeed; Pax Silica accord; Lovable leak; DOJ FaceStealer takedown; Apple OpenEvidence health study; Apple N50 glasses; Foundation Robotics; Huawei Horinger; SK Hynix Trinity Fab; FAA SMART; Memorilla; Bland Tofu-1; Samsung SDS; Bharat Semi; Alpha School. Lightning: AI code open source; Stearns hackable gear; Raschka; LangChain. Hype or Legit: vibe coding unsafe</description>
-      <itunes:summary>Huang comeback war room/Haas/Steve Blank; Nvidia Taipei Chang case; Lutnick/Megaspeed; Pax Silica accord; Lovable leak; DOJ FaceStealer takedown; Apple OpenEvidence health study; Apple N50 glasses; Foundation Robotics; Huawei Horinger; SK Hynix Trinity Fab; FAA SMART; Memorilla; Bland Tofu-1; Samsung SDS; Bharat Semi; Alpha School. Lightning: AI code open source; Stearns hackable gear; Raschka; LangChain. Hype or Legit: vibe coding unsafe</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-16.mp3" length="12748844" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-16</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1593</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
