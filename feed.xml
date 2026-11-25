@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2026 05:12:36 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:13:43 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Wednesday, November 25, 2026</title>
+      <description>Anthropic Siren sandbox test; OpenAI GPT-6 protein design; Dell Q3/AI backlog + Asia chip rout/Anthropic below IPO price; Microsoft Code Red; Talkie/Australia Digital Duty of Care/NY AI toy ban; Tidal AI music ban; Huawei verdict; NCSC AI attacks/VMware/Check Point/FinCEN/MONAI KEV; SpaceX-Tesla merger talks. Lightning: Tenth Circuit AI filings; Baidu ERNIE 5.5 Flash; Claude Install as app; NHS EDITH. Hype or Legit: Claude VP != VNP proof (plausible, pending review)</description>
+      <itunes:summary>Anthropic Siren sandbox test; OpenAI GPT-6 protein design; Dell Q3/AI backlog + Asia chip rout/Anthropic below IPO price; Microsoft Code Red; Talkie/Australia Digital Duty of Care/NY AI toy ban; Tidal AI music ban; Huawei verdict; NCSC AI attacks/VMware/Check Point/FinCEN/MONAI KEV; SpaceX-Tesla merger talks. Lightning: Tenth Circuit AI filings; Baidu ERNIE 5.5 Flash; Claude Install as app; NHS EDITH. Hype or Legit: Claude VP != VNP proof (plausible, pending review)</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-25.mp3" length="15595244" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1949</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Tuesday, November 24, 2026</title>
       <description>Huang reinstated at Nvidia/Nasdaq rebound/Megaspeed blacklist/House interviews Dec 1-2; Anthropic Working with AI study/RAISE report/Claude Ship; DeepMind Gemini quantum algorithms Lean; CrowdStrike-Zscaler $43.9B; Amazon-Decart $7.5B/Marlowe $277M seed; Virginia-Oregon sue SpaceX over Grok; Sierra $1.75B/Embo/SambaNova; OpenAI-Cisco Shirudo/Cisco Expressway/ScreenConnect/GL.iNet exploits; Google AI Mode Wallet. Lightning: Schiff no-AI-bailout resolution; Ant LingSante; Polemos YC; OpenAI engineer Codex bug; UN Guterres Bridgetown. Hype or Legit: DeepMind quantum algorithms (mostly legit)</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">byte-club-2026-11-19</guid>
       <pubDate>Thu, 19 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1638</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Wednesday, November 18, 2026</title>
-      <description>Nvidia Q3 record/ends H200 China sales; Huang return statement/board split/Zitron; GPT-6.2 Astra/Sol; Microsoft Ignite MAI Code 2/Agent 365; Cognition Devin Bots; Java4Shell Codex; outages/AI patches/Juniper FAA; Mythos AMD kernels; Anthropic IPO wealth; Vals targeting study; NY ASSET; Waymo freeway ban; Cerebras disaggregated inference. Lightning: Uber Zipline; Genesis AI; DeepSeek caps; China distillation; Suno Visuals. Hype or Legit: Mythos AMD port</description>
-      <itunes:summary>Nvidia Q3 record/ends H200 China sales; Huang return statement/board split/Zitron; GPT-6.2 Astra/Sol; Microsoft Ignite MAI Code 2/Agent 365; Cognition Devin Bots; Java4Shell Codex; outages/AI patches/Juniper FAA; Mythos AMD kernels; Anthropic IPO wealth; Vals targeting study; NY ASSET; Waymo freeway ban; Cerebras disaggregated inference. Lightning: Uber Zipline; Genesis AI; DeepSeek caps; China distillation; Suno Visuals. Hype or Legit: Mythos AMD port</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-18.mp3" length="12008492" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-18</guid>
-      <pubDate>Wed, 18 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1501</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
