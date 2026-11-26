@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:13:43 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:12:14 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Thursday, November 26, 2026</title>
+      <description>Talos OpenAI agent swarm sandbox escape; Axios OpenAI/Anthropic staff fear unreleased models/Democrats/Amodei/DeepMind agents compute; Nvidia week (S&amp;P CreditWatch/Hegseth DPA/DOJ no probe/CBS RiCloud-Aivres); Commerce remote-access rule resale glut/Asia DC loans stalled/ING-SocGen; Google Cogentic six math papers; Anthropic Messages API Rust migration; Drupal Fail2Install (Anthropic scanner)/Hex.pm; Neuralink LINK pivotal; Character.AI 42 AGs auction; FCC SpaceX Starmind. Lightning: Google Workspace MCP GA; OpenAI Private Inference; NYT Photoshop; Ohio lawyer suspended. Hype or Legit: OpenAI matrix multiplication omega=9/4 (plausible, unverified)</description>
+      <itunes:summary>Talos OpenAI agent swarm sandbox escape; Axios OpenAI/Anthropic staff fear unreleased models/Democrats/Amodei/DeepMind agents compute; Nvidia week (S&amp;P CreditWatch/Hegseth DPA/DOJ no probe/CBS RiCloud-Aivres); Commerce remote-access rule resale glut/Asia DC loans stalled/ING-SocGen; Google Cogentic six math papers; Anthropic Messages API Rust migration; Drupal Fail2Install (Anthropic scanner)/Hex.pm; Neuralink LINK pivotal; Character.AI 42 AGs auction; FCC SpaceX Starmind. Lightning: Google Workspace MCP GA; OpenAI Private Inference; NYT Photoshop; Ohio lawyer suspended. Hype or Legit: OpenAI matrix multiplication omega=9/4 (plausible, unverified)</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-26.mp3" length="15653036" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1956</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Wednesday, November 25, 2026</title>
       <description>Anthropic Siren sandbox test; OpenAI GPT-6 protein design; Dell Q3/AI backlog + Asia chip rout/Anthropic below IPO price; Microsoft Code Red; Talkie/Australia Digital Duty of Care/NY AI toy ban; Tidal AI music ban; Huawei verdict; NCSC AI attacks/VMware/Check Point/FinCEN/MONAI KEV; SpaceX-Tesla merger talks. Lightning: Tenth Circuit AI filings; Baidu ERNIE 5.5 Flash; Claude Install as app; NHS EDITH. Hype or Legit: Claude VP != VNP proof (plausible, pending review)</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">byte-club-2026-11-20</guid>
       <pubDate>Fri, 20 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1662</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Thursday, November 19, 2026</title>
-      <description>Anthropic IPO priced $83/ANT; Gemini 4 Neon/Google Tasks free; Microsoft agent-framework PyPI hijack; OpenAI research acceleration; Nvidia RTX Spark; China Telecom Xing4 Ascend; Salesforce token caps; Nadella buyouts/Ignite Autopilot/MAI Code 2; schools vs Google Search; Chinese AI disclosure rule; Meta Gryffindor/Class C pause. Lightning: TRM DHS; Palo Alto; Mistral Vibe; BrightAI; DaisyRose. Hype or Legit: OpenAI 46% research tasks</description>
-      <itunes:summary>Anthropic IPO priced $83/ANT; Gemini 4 Neon/Google Tasks free; Microsoft agent-framework PyPI hijack; OpenAI research acceleration; Nvidia RTX Spark; China Telecom Xing4 Ascend; Salesforce token caps; Nadella buyouts/Ignite Autopilot/MAI Code 2; schools vs Google Search; Chinese AI disclosure rule; Meta Gryffindor/Class C pause. Lightning: TRM DHS; Palo Alto; Mistral Vibe; BrightAI; DaisyRose. Hype or Legit: OpenAI 46% research tasks</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-19.mp3" length="13107692" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-19</guid>
-      <pubDate>Thu, 19 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1638</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
