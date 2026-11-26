@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:37:57 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 05:37:33 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Thursday, November 26, 2026</title>
+      <description>MLX 0.32.5 (Metal qmv/NAX kernels, sliding-window attn); Raon-1 mini (Apache-2.0, official MLX NVFP4 ~18.7GB, fits 64GB); rustling (Inkling 2 Mini Rust engine); Marathon Local (free, license unstated, vendor benchmarks); KosmicKrisp replaces MoltenVK; NFS2ROOT CVE-2026-99362. Tool: WePocketModel1.0-4B-MLX. Quick: Drupal Fail2Install KEV; GeoServer exploitation probes; Ubuntu NoisyTCP patch lag; mj-mlx beta. Watch: Marathon/Raon independent numbers, Ubuntu NoisyTCP fix, Drupal KEV deadline Nov 27.</description>
+      <itunes:summary>MLX 0.32.5 (Metal qmv/NAX kernels, sliding-window attn); Raon-1 mini (Apache-2.0, official MLX NVFP4 ~18.7GB, fits 64GB); rustling (Inkling 2 Mini Rust engine); Marathon Local (free, license unstated, vendor benchmarks); KosmicKrisp replaces MoltenVK; NFS2ROOT CVE-2026-99362. Tool: WePocketModel1.0-4B-MLX. Quick: Drupal Fail2Install KEV; GeoServer exploitation probes; Ubuntu NoisyTCP patch lag; mj-mlx beta. Watch: Marathon/Raon independent numbers, Ubuntu NoisyTCP fix, Drupal KEV deadline Nov 27.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-26.mp3" length="8750252" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-26</guid>
+      <pubDate>Thu, 26 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>1093</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Wednesday, November 25, 2026</title>
       <description>Ternary Bonsai 2.5 27B (Apache-2.0, 5.93GB/MLX 8.86GB, vendor benchmarks); Ollama 0.40.18 Inkling Metal kernels; llama.cpp GGUF CVE-2026-131833 (fixed Jul 24); hex.pm RCE CVE-2026-129514 + Ash CVE-2026-124283; Torvalds ext4 AI pull request; Ubuntu AI launcher + SUSE Agama MCP. Tool: Songe 0.1.0a15. Quick: Lightdash 3.327.2; GeoServer Nov CVEs; Pop!_OS 26.04; Collabora memory. Watch: hex.pm post-incident, Bonsai/Inkling independent Mac benchmarks, Linux 7.4-rc5.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-20</guid>
       <pubDate>Fri, 20 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>943</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Thursday, November 19, 2026</title>
-      <description>nginx HTTP/2 RCE CVE-2026-123633/123007; Ruby 7 advisories (4.0.10); DaisyRose-27B (64GB fit, MLX 4-bit); Microsoft agent-framework PyPI stealer; Palo Alto/Applied Compute $4.5B; Meta Cuttlefish on Mac. Tool: FailTrace. Quick: Ollama 0.40.17-rc1; ExitPath; tamserve. Watch: nginx exploit code, Ollama 0.40.17 stable, DaisyRose benchmarks.</description>
-      <itunes:summary>nginx HTTP/2 RCE CVE-2026-123633/123007; Ruby 7 advisories (4.0.10); DaisyRose-27B (64GB fit, MLX 4-bit); Microsoft agent-framework PyPI stealer; Palo Alto/Applied Compute $4.5B; Meta Cuttlefish on Mac. Tool: FailTrace. Quick: Ollama 0.40.17-rc1; ExitPath; tamserve. Watch: nginx exploit code, Ollama 0.40.17 stable, DaisyRose benchmarks.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-19.mp3" length="7926764" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-19</guid>
-      <pubDate>Thu, 19 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>990</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
