@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Nov 2026 05:37:33 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 05:36:59 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Friday, November 27, 2026</title>
+      <description>oMLX 0.8.4 (Inkling 2 Mini speedups, vendor M5 Ultra numbers, 10.2GB SSD experts); Raon-1 mini Xylolabs MLX 4/8-bit (19.9/30.6GB, fits 64GB); Linux 7.5 AI agent skills (Levin) + networking maintainer; LXD CVE-2026-135382 (9.9); n8n sandbox escape (fixed 2.49.2/3.4.0); Qt WebEngine Brotli CVE-2026-111497. Tool: brush 0.5.0. Quick: MONAI Label 0.8.8 RCE; Omarchy 4.6-rc1; rdna-boosts blog caution; Drupal KEV deadline Nov 27. Watch: oMLX M5 Pro/Max numbers, LXD/Incus exploit details, Torvalds on agent skills.</description>
+      <itunes:summary>oMLX 0.8.4 (Inkling 2 Mini speedups, vendor M5 Ultra numbers, 10.2GB SSD experts); Raon-1 mini Xylolabs MLX 4/8-bit (19.9/30.6GB, fits 64GB); Linux 7.5 AI agent skills (Levin) + networking maintainer; LXD CVE-2026-135382 (9.9); n8n sandbox escape (fixed 2.49.2/3.4.0); Qt WebEngine Brotli CVE-2026-111497. Tool: brush 0.5.0. Quick: MONAI Label 0.8.8 RCE; Omarchy 4.6-rc1; rdna-boosts blog caution; Drupal KEV deadline Nov 27. Watch: oMLX M5 Pro/Max numbers, LXD/Incus exploit details, Torvalds on agent skills.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-27.mp3" length="7831340" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-27</guid>
+      <pubDate>Fri, 27 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>978</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Thursday, November 26, 2026</title>
       <description>MLX 0.32.5 (Metal qmv/NAX kernels, sliding-window attn); Raon-1 mini (Apache-2.0, official MLX NVFP4 ~18.7GB, fits 64GB); rustling (Inkling 2 Mini Rust engine); Marathon Local (free, license unstated, vendor benchmarks); KosmicKrisp replaces MoltenVK; NFS2ROOT CVE-2026-99362. Tool: WePocketModel1.0-4B-MLX. Quick: Drupal Fail2Install KEV; GeoServer exploitation probes; Ubuntu NoisyTCP patch lag; mj-mlx beta. Watch: Marathon/Raon independent numbers, Ubuntu NoisyTCP fix, Drupal KEV deadline Nov 27.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-21</guid>
       <pubDate>Sat, 21 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>982</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Friday, November 20, 2026</title>
-      <description>PostgreSQL 19; OpenSSL CVE-2026-121481 (disputed, PR open); Olala mini 7A1B MLX fork; Tencent Hy4 flash (no 64GB fit); Onlook. Tool: Qwen3.6-35B-A3B OptiQ 4bit. Quick: Unsloth 0.1.920; PG19 upgrade checks; OpenSSL #33812. Watch: OpenSSL advisory, llama.cpp Hy4 PR, Olala upstream.</description>
-      <itunes:summary>PostgreSQL 19; OpenSSL CVE-2026-121481 (disputed, PR open); Olala mini 7A1B MLX fork; Tencent Hy4 flash (no 64GB fit); Onlook. Tool: Qwen3.6-35B-A3B OptiQ 4bit. Quick: Unsloth 0.1.920; PG19 upgrade checks; OpenSSL #33812. Watch: OpenSSL advisory, llama.cpp Hy4 PR, Olala upstream.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-20.mp3" length="7551404" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-20</guid>
-      <pubDate>Fri, 20 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>943</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
