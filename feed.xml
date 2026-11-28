@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>A fun daily briefing on tech and AI news with hosts Max and Nova. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:20:25 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:19:07 +0100</lastBuildDate>
     <itunes:author>Byte Club</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/artwork.jpg</url><title>Byte Club</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Byte Club — Saturday, November 28, 2026</title>
+      <description>OpenAI countersues Apple (trade secrets/supplier pressure); SAP cyberattack via GitHub tokens; Reuters China AI squeeze (Moonshot $150M Blackwell cancel/Z.ai GLM-5.5 delay/anti-distillation/neocloud rule/lender pauses); Claude Fable 5.2 sabotage claims vs Anthropic capability limits; AI shopping agents blocked (Amazon/Visa 43% fail); GTA 6 AI-assisted PC ports; Poland-Palantir Maven $300M; Meta Muse UK liability cap/CMA; ECB 44% weekly AI at work; Cacti unpatched zero-day. Lightning: Nielsen pulls book; EIA data center survey; Japan AI duties draft; Korea CSAT AI cheating. Hype or Legit: AI shopping agents mainstream this holiday (mostly hype, early/uneven)</description>
+      <itunes:summary>OpenAI countersues Apple (trade secrets/supplier pressure); SAP cyberattack via GitHub tokens; Reuters China AI squeeze (Moonshot $150M Blackwell cancel/Z.ai GLM-5.5 delay/anti-distillation/neocloud rule/lender pauses); Claude Fable 5.2 sabotage claims vs Anthropic capability limits; AI shopping agents blocked (Amazon/Visa 43% fail); GTA 6 AI-assisted PC ports; Poland-Palantir Maven $300M; Meta Muse UK liability cap/CMA; ECB 44% weekly AI at work; Cacti unpatched zero-day. Lightning: Nielsen pulls book; EIA data center survey; Japan AI duties draft; Korea CSAT AI cheating. Hype or Legit: AI shopping agents mainstream this holiday (mostly hype, early/uneven)</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-28.mp3" length="15673580" type="audio/mpeg"/>
+      <guid isPermaLink="false">byte-club-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 05:00:00 +0100</pubDate>
+      <itunes:duration>1959</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Byte Club — Friday, November 27, 2026</title>
       <description>Nvidia pauses SE Asia server shipments (Malaysia/Singapore/Thailand/Indonesia); Swiss BACS five AI-agent attacks/Microsoft Artex Salt Typhoon/GreyNoise GT13 Check Point; Bank of England $4T hyperscaler exposure/Citi-JPMorgan SRT AI loans/Fed 87%; WSJ memory shortage price hikes; SAP 10,000 job cuts; OpenAI shared ChatGPT-Codex allowance/GPT-5.6 retirement Dec 23; Dutch groups sue Meta Ray-Ban glasses; Z.ai GLM-5.5 delay denial/Huawei HBM ISSCC; Volvo AEON humanoid Ghent. Lightning: Altair $100M; India Chariot-1; Krafton Raon-1 mini; N3on AI voice fraud sentence. Hype or Legit: AI-cured-diseases counter at zero (legit, strict bar)</description>
@@ -66,17 +77,6 @@
       <guid isPermaLink="false">byte-club-2026-11-22</guid>
       <pubDate>Sun, 22 Nov 2026 05:00:00 +0100</pubDate>
       <itunes:duration>1496</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Byte Club — Saturday, November 21, 2026</title>
-      <description>Alpöge Claude GRH proof claim/Masullo human proof; Fable 5.2 black hole + Fermat Lean; METR judgment tasks; Nvidia 7-week streak/SEC/California AG/879k chips/Bessent; Anthropic greenshoe $93.5B/TSMC stake; Trump overseas data center tax; Oracle funded; Amazon Cairn MONAI zero-day; CrowdStrike-Zscaler; Inkling 2 Mini; Cognition/Databricks/LangChain; Signal vs AI assistants; Computer Use Team. Lightning: Cursor Chinese models; Etsy AI terms; MedChemBench; FPGA agents/SK Hynix MARS. Hype or Legit: Fable Fermat Lean 30 hours</description>
-      <itunes:summary>Alpöge Claude GRH proof claim/Masullo human proof; Fable 5.2 black hole + Fermat Lean; METR judgment tasks; Nvidia 7-week streak/SEC/California AG/879k chips/Bessent; Anthropic greenshoe $93.5B/TSMC stake; Trump overseas data center tax; Oracle funded; Amazon Cairn MONAI zero-day; CrowdStrike-Zscaler; Inkling 2 Mini; Cognition/Databricks/LangChain; Signal vs AI assistants; Computer Use Team. Lightning: Cursor Chinese models; Etsy AI terms; MedChemBench; FPGA agents/SK Hynix MARS. Hype or Legit: Fable Fermat Lean 30 hours</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/episodes/byte-club-2026-11-21.mp3" length="13186796" type="audio/mpeg"/>
-      <guid isPermaLink="false">byte-club-2026-11-21</guid>
-      <pubDate>Sat, 21 Nov 2026 05:00:00 +0100</pubDate>
-      <itunes:duration>1648</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
