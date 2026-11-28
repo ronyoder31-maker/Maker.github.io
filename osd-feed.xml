@@ -6,7 +6,7 @@
     <atom:link href="https://ronyoder31-maker.github.io/Maker.github.io/osd-feed.xml" rel="self" type="application/rss+xml"/>
     <description>A daily briefing on open-source tools, open-weight models, and local AI on Apple Silicon, with hosts Alex and Sam. Private feed.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 27 Nov 2026 05:36:59 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 05:37:40 +0100</lastBuildDate>
     <itunes:author>Open Source Daily</itunes:author>
     <itunes:image href="https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg"/>
     <image><url>https://ronyoder31-maker.github.io/Maker.github.io/osd/artwork.jpg</url><title>Open Source Daily</title><link>https://ronyoder31-maker.github.io/Maker.github.io/</link></image>
@@ -14,6 +14,17 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
     <itunes:block>Yes</itunes:block>
+    <item>
+      <title>Open Source Daily — Saturday, November 28, 2026</title>
+      <description>llama.cpp v1.1.0 (Inkling 2 family, audio models, Llama Chat; 64GB fit notes); Drupal CVE-2026-136716 (incomplete installer fix, exploited); Convex agent skills telemetry/remote scripts (issue #64); Wine 11.23 ARM64 macOS; NetProjects Qwen3.8-27B Pi LayerFit 2.5-bit MLX (11.5GB); GigaChat 4 37B MLX community build (21.1GB, caveats). Tool: Prospero 0.22.0. Quick: RabbitMQ GHSA-w4p7 (low); GeoServer KEV; systemd 263-rc1 Rust; Glossbeam. Watch: Convex response, Linux 7.4-rc5, Wine macOS reports.</description>
+      <itunes:summary>llama.cpp v1.1.0 (Inkling 2 family, audio models, Llama Chat; 64GB fit notes); Drupal CVE-2026-136716 (incomplete installer fix, exploited); Convex agent skills telemetry/remote scripts (issue #64); Wine 11.23 ARM64 macOS; NetProjects Qwen3.8-27B Pi LayerFit 2.5-bit MLX (11.5GB); GigaChat 4 37B MLX community build (21.1GB, caveats). Tool: Prospero 0.22.0. Quick: RabbitMQ GHSA-w4p7 (low); GeoServer KEV; systemd 263-rc1 Rust; Glossbeam. Watch: Convex response, Linux 7.4-rc5, Wine macOS reports.</itunes:summary>
+      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-28.mp3" length="8359916" type="audio/mpeg"/>
+      <guid isPermaLink="false">open-source-daily-2026-11-28</guid>
+      <pubDate>Sat, 28 Nov 2026 05:30:00 +0100</pubDate>
+      <itunes:duration>1044</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>Open Source Daily — Friday, November 27, 2026</title>
       <description>oMLX 0.8.4 (Inkling 2 Mini speedups, vendor M5 Ultra numbers, 10.2GB SSD experts); Raon-1 mini Xylolabs MLX 4/8-bit (19.9/30.6GB, fits 64GB); Linux 7.5 AI agent skills (Levin) + networking maintainer; LXD CVE-2026-135382 (9.9); n8n sandbox escape (fixed 2.49.2/3.4.0); Qt WebEngine Brotli CVE-2026-111497. Tool: brush 0.5.0. Quick: MONAI Label 0.8.8 RCE; Omarchy 4.6-rc1; rdna-boosts blog caution; Drupal KEV deadline Nov 27. Watch: oMLX M5 Pro/Max numbers, LXD/Incus exploit details, Torvalds on agent skills.</description>
@@ -77,17 +88,6 @@
       <guid isPermaLink="false">open-source-daily-2026-11-22</guid>
       <pubDate>Sun, 22 Nov 2026 05:30:00 +0100</pubDate>
       <itunes:duration>771</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Open Source Daily — Saturday, November 21, 2026</title>
-      <description>Inkling 2 Mini (Apache-2.0, 20GB, fits 64GB); Ollama 0.40.17 stable (MLX concurrency); PHP Nov 19 security release; OpenComputer; DreamCoder (closed); llama.cpp M5 CONV_2D + IQ2. Tool: Ollama+Inkling+OpenCode. Quick: fastify reply-from; Netatalk CVE-2026-62318; fusion-mlx; Rapid-MLX 1.0.5. Watch: Inkling Mac benchmarks, PHP exploitation, Ollama #19678.</description>
-      <itunes:summary>Inkling 2 Mini (Apache-2.0, 20GB, fits 64GB); Ollama 0.40.17 stable (MLX concurrency); PHP Nov 19 security release; OpenComputer; DreamCoder (closed); llama.cpp M5 CONV_2D + IQ2. Tool: Ollama+Inkling+OpenCode. Quick: fastify reply-from; Netatalk CVE-2026-62318; fusion-mlx; Rapid-MLX 1.0.5. Watch: Inkling Mac benchmarks, PHP exploitation, Ollama #19678.</itunes:summary>
-      <enclosure url="https://ronyoder31-maker.github.io/Maker.github.io/osd/episodes/open-source-daily-2026-11-21.mp3" length="7863020" type="audio/mpeg"/>
-      <guid isPermaLink="false">open-source-daily-2026-11-21</guid>
-      <pubDate>Sat, 21 Nov 2026 05:30:00 +0100</pubDate>
-      <itunes:duration>982</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
